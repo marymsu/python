@@ -23,24 +23,19 @@ print(days)
 
 
 #Question Two
-
-def getList(student):
-  student = {
-  "John":{"gender":"Male","age": 25},
-  "Lisa":{"gender":"Female","age": 28},
-  "Linda":{"gender":"Female","age": 32},
+student = {
+"John":{"gender":"Male","age": 25},
+"Lisa":{"gender":"Female","age": 28},
+"Linda":{"gender":"Female","age": 32},
         "child":{
             "Susan":{"gender":"female", "age":6}
             },
             
-  "Michael":{"gender":"male","age": 41},
+"Michael":{"gender":"male","age": 41},
         "children":{
             "Karen":{"gender":"female", "age":12},
             "Greg":{"gender":"female", "age": 7}
             }          
 }  
-
-
-  return student.keys() 
-students = {'children':'Karen', 'Children':'Greg'}
-print(getList(students))
+children = student['children']
+print(list(children))
