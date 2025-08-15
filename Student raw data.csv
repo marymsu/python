@@ -1,0 +1,1001 @@
+Student Name,Student ID,Faculty,Year of Intake,Expected Year of Graduation,Gender,Major Courses,Sponsorship Status,Nationality,Units to Complete Degree,Level of Education, Classes Attended,Classes to Graduate
+Jane Wilson,58974519,School of Pharmacy & Health Sciences,2024,2027,Male,Nursing,Sponsored,Mexican,140,Undergraduate,30,42
+John Jones,80851154,"School of Graduate Studies, Research & Extension",2023,2024,Female,Research Methodology,Self-sponsored,French,37,Masters,46,14
+Mary Wilson,72647539,"School of Communication, Cinematic & Creative Arts",2024,2026,Female,Film Production,Sponsored,Brazilian,51,Masters,34,12
+Emily Wilson,63134019,School of Humanities & Social Sciences,2024,2028,Male,International Relations,Sponsored,Brazilian,51,PhD,24,15
+John Jones,37873362,"School of Communication, Cinematic & Creative Arts",2023,2025,Female,Graphic Design,Sponsored,German,43,Masters,22,16
+John Wilson,65192035,School of Humanities & Social Sciences,2023,2028,Male,Psychology,Self-sponsored,Brazilian,59,PhD,43,12
+Sarah Wilson,94388113,School of Humanities & Social Sciences,2025,2029,Male,Psychology,Sponsored,Rwandan,123,Undergraduate,13,40
+John Brown,50771074,School of Science & Technology,2025,2029,Male,Mathematics,Self-sponsored,German,152,Undergraduate,44,41
+Mary Davis,14179525,School of Pharmacy & Health Sciences,2022,2023,Other,Nursing,Self-sponsored,Indian,53,Masters,35,15
+Michael Brown,51632051,"School of Graduate Studies, Research & Extension",2023,2027,Female,Advanced Statistics,Self-sponsored,Rwandan,129,Undergraduate,12,43
+Mary Doe,10658293,"School of Graduate Studies, Research & Extension",2025,2029,Other,Thesis Writing,Sponsored,Australian,129,Undergraduate,35,41
+Michael Smith,80466996,"School of Communication, Cinematic & Creative Arts",2024,2026,Other,Journalism,Sponsored,Indian,39,Masters,30,12
+Mary Davis,88236499,"School of Communication, Cinematic & Creative Arts",2025,2028,Female,Film Production,Sponsored,Indian,156,Undergraduate,16,44
+Peter Doe,65540940,"School of Communication, Cinematic & Creative Arts",2022,2026,Male,Film Production,Self-sponsored,Chinese,53,PhD,22,14
+Peter Williams,98973783,School of Humanities & Social Sciences,2022,2026,Other,International Relations,Self-sponsored,American,77,PhD,31,15
+David Smith,59148819,"School of Communication, Cinematic & Creative Arts",2023,2025,Other,Journalism,Sponsored,Indian,37,Masters,44,16
+Peter Williams,11035758,School of Humanities & Social Sciences,2025,2028,Female,International Relations,Sponsored,Nigerian,159,Undergraduate,22,43
+Jane Davis,89661036,"School of Graduate Studies, Research & Extension",2022,2025,Other,Thesis Writing,Sponsored,South African,47,PhD,32,13
+Mary Wilson,16793346,"School of Communication, Cinematic & Creative Arts",2025,2028,Other,Film Production,Self-sponsored,Canadian,62,PhD,23,13
+Jane Doe,78715632,School of Science & Technology,2025,2030,Male,Computer Science,Sponsored,Nigerian,87,PhD,10,13
+Sarah Smith,42814685,Chandaria School of Business,2023,2027,Other,Finance,Self-sponsored,Australian,151,Undergraduate,10,43
+Jane Smith,95332560,"School of Communication, Cinematic & Creative Arts",2023,2025,Female,Film Production,Self-sponsored,British,59,Masters,28,15
+Mary Smith,68259711,School of Science & Technology,2022,2027,Male,Computer Science,Self-sponsored,French,90,PhD,20,15
+Mary Miller,26872676,School of Humanities & Social Sciences,2024,2026,Other,International Relations,Sponsored,German,40,Masters,20,16
+Jane Wilson,56603537,School of Pharmacy & Health Sciences,2023,2025,Male,Nursing,Sponsored,Tanzanian,57,Masters,32,12
+Mary Doe,30162263,School of Humanities & Social Sciences,2025,2028,Other,Sociology,Self-sponsored,Chinese,127,Undergraduate,45,42
+Emily Jones,85411908,"School of Graduate Studies, Research & Extension",2023,2024,Other,Research Methodology,Sponsored,American,41,Masters,33,14
+Sarah Williams,69621026,School of Science & Technology,2022,2024,Male,Biotechnology,Self-sponsored,Mexican,38,Masters,37,16
+John Doe,70514131,"School of Graduate Studies, Research & Extension",2024,2028,Male,Thesis Writing,Sponsored,Brazilian,155,Undergraduate,34,41
+Jane Miller,98155634,School of Science & Technology,2023,2025,Male,Computer Science,Self-sponsored,Kenyan,32,Masters,34,13
+John Williams,74609791,School of Humanities & Social Sciences,2023,2026,Male,Sociology,Self-sponsored,Kenyan,82,PhD,23,14
+David Brown,65943993,Chandaria School of Business,2024,2026,Other,Finance,Self-sponsored,Indian,42,Masters,27,16
+David Davis,30880597,"School of Graduate Studies, Research & Extension",2023,2028,Male,Advanced Statistics,Self-sponsored,British,64,PhD,15,15
+Jane Smith,99509135,Chandaria School of Business,2024,2028,Female,Marketing,Sponsored,Mexican,55,PhD,48,15
+Jane Smith,66468408,Chandaria School of Business,2022,2025,Other,Marketing,Self-sponsored,Chinese,148,Undergraduate,17,40
+John Davis,95672589,School of Pharmacy & Health Sciences,2025,2028,Other,Nursing,Self-sponsored,Kenyan,151,Undergraduate,35,41
+David Doe,16129114,School of Science & Technology,2022,2023,Other,Computer Science,Self-sponsored,French,40,Masters,28,16
+Sarah Miller,79427667,"School of Graduate Studies, Research & Extension",2025,2028,Female,Advanced Statistics,Sponsored,Rwandan,123,Undergraduate,22,40
+David Jones,11524005,"School of Communication, Cinematic & Creative Arts",2023,2028,Female,Graphic Design,Sponsored,Nigerian,79,PhD,38,14
+Peter Miller,29280516,School of Humanities & Social Sciences,2025,2028,Other,International Relations,Self-sponsored,Mexican,126,Undergraduate,14,41
+Sarah Miller,48877495,Chandaria School of Business,2025,2028,Male,Finance,Sponsored,Mexican,147,Undergraduate,49,40
+Emily Jones,84730550,"School of Communication, Cinematic & Creative Arts",2022,2025,Female,Journalism,Self-sponsored,Tanzanian,125,Undergraduate,13,41
+Jane Smith,56279392,School of Science & Technology,2023,2027,Other,Computer Science,Sponsored,French,59,PhD,16,15
+Peter Wilson,84967595,"School of Graduate Studies, Research & Extension",2024,2025,Other,Thesis Writing,Sponsored,Nigerian,38,Masters,32,13
+John Wilson,94013416,Chandaria School of Business,2025,2028,Female,Human Resource Management,Self-sponsored,Chinese,142,Undergraduate,18,40
+Sarah Wilson,22490744,"School of Graduate Studies, Research & Extension",2022,2026,Other,Research Methodology,Self-sponsored,German,73,PhD,41,16
+John Doe,90023292,"School of Communication, Cinematic & Creative Arts",2023,2026,Other,Journalism,Self-sponsored,Chinese,140,Undergraduate,12,42
+Mary Doe,94873922,School of Science & Technology,2022,2025,Female,Computer Science,Self-sponsored,Australian,131,Undergraduate,21,41
+David Brown,73034208,"School of Communication, Cinematic & Creative Arts",2025,2029,Male,Graphic Design,Self-sponsored,Nigerian,84,PhD,14,14
+Peter Doe,91426339,School of Humanities & Social Sciences,2022,2026,Other,International Relations,Sponsored,Mexican,128,Undergraduate,34,44
+John Davis,10527045,School of Science & Technology,2025,2030,Other,Computer Science,Self-sponsored,Tanzanian,80,PhD,28,12
+Jane Brown,29850963,School of Pharmacy & Health Sciences,2023,2026,Other,Public Health,Sponsored,Canadian,135,Undergraduate,30,40
+David Doe,67052095,Chandaria School of Business,2025,2028,Male,Marketing,Self-sponsored,French,57,PhD,24,15
+Emily Davis,22037602,School of Science & Technology,2022,2025,Female,Biotechnology,Self-sponsored,Chinese,141,Undergraduate,45,43
+Emily Jones,97741118,"School of Communication, Cinematic & Creative Arts",2024,2028,Female,Graphic Design,Self-sponsored,Ugandan,77,PhD,47,15
+Jane Smith,17167760,"School of Graduate Studies, Research & Extension",2024,2026,Female,Thesis Writing,Sponsored,British,37,Masters,14,12
+David Davis,83745471,School of Pharmacy & Health Sciences,2023,2027,Male,Pharmacology,Sponsored,Ugandan,154,Undergraduate,22,43
+Jane Brown,35445494,School of Pharmacy & Health Sciences,2025,2026,Other,Pharmacology,Sponsored,Ugandan,51,Masters,30,12
+Peter Jones,39826815,School of Humanities & Social Sciences,2023,2024,Other,Psychology,Self-sponsored,Mexican,58,Masters,24,14
+Emily Smith,16097592,"School of Graduate Studies, Research & Extension",2022,2026,Male,Research Methodology,Self-sponsored,French,146,Undergraduate,49,44
+Michael Brown,34749617,School of Pharmacy & Health Sciences,2023,2024,Male,Pharmacology,Sponsored,South African,53,Masters,18,13
+Sarah Smith,78101805,School of Science & Technology,2025,2026,Female,Computer Science,Self-sponsored,American,50,Masters,35,16
+Sarah Smith,12654366,"School of Graduate Studies, Research & Extension",2022,2025,Other,Advanced Statistics,Sponsored,Indian,69,PhD,29,15
+Sarah Miller,80358640,"School of Communication, Cinematic & Creative Arts",2024,2027,Other,Film Production,Sponsored,British,126,Undergraduate,25,44
+Michael Williams,50275673,"School of Graduate Studies, Research & Extension",2024,2025,Other,Thesis Writing,Self-sponsored,Mexican,34,Masters,43,14
+David Smith,53783306,School of Pharmacy & Health Sciences,2022,2026,Other,Public Health,Self-sponsored,Australian,153,Undergraduate,44,43
+Emily Wilson,48963107,Chandaria School of Business,2025,2027,Female,Marketing,Self-sponsored,Mexican,59,Masters,30,15
+Mary Williams,52841591,School of Pharmacy & Health Sciences,2024,2029,Female,Nursing,Self-sponsored,Nigerian,72,PhD,40,13
+Sarah Smith,10193289,School of Humanities & Social Sciences,2023,2025,Male,Psychology,Self-sponsored,Tanzanian,37,Masters,42,15
+Jane Jones,67301249,School of Humanities & Social Sciences,2023,2027,Female,Psychology,Self-sponsored,Brazilian,55,PhD,25,15
+Peter Brown,97935473,"School of Communication, Cinematic & Creative Arts",2022,2026,Female,Film Production,Sponsored,Nigerian,159,Undergraduate,47,43
+Michael Davis,14944720,School of Pharmacy & Health Sciences,2022,2027,Other,Public Health,Sponsored,Tanzanian,75,PhD,15,16
+Peter Brown,49036990,School of Humanities & Social Sciences,2025,2026,Male,International Relations,Sponsored,French,47,Masters,29,13
+Emily Smith,79319076,Chandaria School of Business,2025,2030,Male,Human Resource Management,Sponsored,Ugandan,58,PhD,15,13
+Mary Williams,63565377,School of Science & Technology,2022,2025,Male,Biotechnology,Sponsored,Rwandan,144,Undergraduate,13,44
+Emily Miller,83029723,"School of Graduate Studies, Research & Extension",2024,2028,Female,Research Methodology,Sponsored,Nigerian,62,PhD,47,16
+David Brown,68551056,School of Humanities & Social Sciences,2025,2026,Female,International Relations,Sponsored,Kenyan,33,Masters,43,15
+Mary Smith,57362926,"School of Graduate Studies, Research & Extension",2023,2026,Female,Advanced Statistics,Self-sponsored,Canadian,89,PhD,41,12
+Emily Smith,87973891,"School of Communication, Cinematic & Creative Arts",2023,2027,Male,Journalism,Self-sponsored,Chinese,73,PhD,28,13
+Jane Smith,71451179,"School of Graduate Studies, Research & Extension",2024,2028,Other,Advanced Statistics,Sponsored,Chinese,80,PhD,25,13
+David Williams,92344845,School of Pharmacy & Health Sciences,2024,2028,Other,Pharmacology,Self-sponsored,Kenyan,125,Undergraduate,33,41
+John Davis,74343164,Chandaria School of Business,2023,2028,Female,Finance,Sponsored,Australian,56,PhD,35,14
+John Williams,48014546,Chandaria School of Business,2023,2026,Female,Human Resource Management,Self-sponsored,Mexican,124,Undergraduate,22,41
+David Williams,59606231,School of Pharmacy & Health Sciences,2023,2026,Male,Pharmacology,Self-sponsored,Canadian,59,PhD,42,16
+Jane Jones,43920433,School of Humanities & Social Sciences,2025,2029,Female,Sociology,Self-sponsored,Kenyan,60,PhD,20,16
+David Wilson,44767720,School of Science & Technology,2025,2029,Female,Computer Science,Self-sponsored,French,85,PhD,15,12
+Emily Jones,94250794,School of Science & Technology,2024,2028,Female,Biotechnology,Sponsored,Kenyan,156,Undergraduate,49,42
+Sarah Williams,54580940,School of Humanities & Social Sciences,2025,2028,Other,International Relations,Self-sponsored,Australian,156,Undergraduate,47,41
+Michael Smith,20561525,School of Pharmacy & Health Sciences,2023,2026,Male,Pharmacology,Sponsored,Mexican,83,PhD,35,12
+Jane Davis,30321170,School of Pharmacy & Health Sciences,2023,2027,Female,Nursing,Sponsored,Brazilian,152,Undergraduate,42,43
+David Doe,13749169,Chandaria School of Business,2023,2027,Female,Marketing,Sponsored,Nigerian,130,Undergraduate,19,43
+Sarah Davis,13413573,"School of Graduate Studies, Research & Extension",2022,2026,Other,Thesis Writing,Sponsored,American,54,PhD,50,14
+Sarah Davis,16832665,Chandaria School of Business,2023,2028,Male,Marketing,Self-sponsored,French,84,PhD,26,12
+Mary Wilson,82019011,School of Humanities & Social Sciences,2025,2026,Male,International Relations,Self-sponsored,American,34,Masters,17,12
+Michael Smith,25291062,Chandaria School of Business,2025,2028,Other,Marketing,Sponsored,Rwandan,66,PhD,38,13
+Michael Miller,39043957,"School of Communication, Cinematic & Creative Arts",2024,2028,Female,Graphic Design,Self-sponsored,Australian,81,PhD,23,16
+Peter Smith,13081533,School of Science & Technology,2024,2026,Other,Computer Science,Self-sponsored,Tanzanian,44,Masters,44,16
+Emily Jones,61352691,School of Pharmacy & Health Sciences,2022,2026,Male,Pharmacology,Self-sponsored,Rwandan,156,Undergraduate,32,41
+Sarah Smith,86554325,School of Humanities & Social Sciences,2024,2028,Other,Psychology,Self-sponsored,Mexican,128,Undergraduate,27,41
+Michael Smith,13712360,School of Humanities & Social Sciences,2022,2026,Male,Sociology,Self-sponsored,French,135,Undergraduate,40,42
+Peter Williams,33950072,School of Pharmacy & Health Sciences,2023,2027,Female,Public Health,Self-sponsored,Australian,61,PhD,49,16
+Mary Brown,19300779,School of Pharmacy & Health Sciences,2025,2029,Male,Public Health,Self-sponsored,British,153,Undergraduate,37,43
+Michael Wilson,79247330,"School of Graduate Studies, Research & Extension",2023,2027,Female,Advanced Statistics,Sponsored,Nigerian,130,Undergraduate,18,40
+Sarah Jones,82620359,School of Science & Technology,2022,2026,Other,Biotechnology,Sponsored,South African,85,PhD,26,12
+Emily Doe,18166256,School of Humanities & Social Sciences,2024,2025,Female,Psychology,Self-sponsored,South African,35,Masters,42,15
+David Doe,59354497,"School of Communication, Cinematic & Creative Arts",2023,2025,Male,Journalism,Sponsored,Canadian,48,Masters,13,12
+Sarah Davis,89789294,School of Science & Technology,2023,2027,Other,Computer Science,Sponsored,South African,142,Undergraduate,36,40
+Emily Davis,73251403,School of Humanities & Social Sciences,2023,2025,Other,International Relations,Sponsored,Rwandan,49,Masters,32,14
+Mary Smith,53441710,"School of Graduate Studies, Research & Extension",2022,2027,Female,Thesis Writing,Self-sponsored,Brazilian,56,PhD,30,13
+David Brown,37601628,School of Pharmacy & Health Sciences,2023,2026,Other,Nursing,Self-sponsored,South African,47,PhD,48,16
+Mary Smith,76339269,Chandaria School of Business,2022,2026,Male,Human Resource Management,Self-sponsored,South African,129,Undergraduate,23,43
+Michael Doe,44329693,Chandaria School of Business,2023,2027,Male,Marketing,Self-sponsored,Tanzanian,151,Undergraduate,22,42
+Jane Brown,91830439,School of Pharmacy & Health Sciences,2025,2030,Other,Public Health,Self-sponsored,Nigerian,51,PhD,31,12
+Emily Miller,53522913,School of Pharmacy & Health Sciences,2023,2027,Other,Nursing,Self-sponsored,Rwandan,143,Undergraduate,37,42
+Jane Jones,89874270,"School of Graduate Studies, Research & Extension",2023,2027,Other,Thesis Writing,Sponsored,American,88,PhD,27,15
+Jane Williams,77750893,"School of Graduate Studies, Research & Extension",2024,2028,Female,Thesis Writing,Self-sponsored,Tanzanian,52,PhD,22,16
+Michael Wilson,15736768,School of Humanities & Social Sciences,2024,2028,Male,Sociology,Sponsored,French,155,Undergraduate,10,42
+David Wilson,22554565,Chandaria School of Business,2024,2025,Female,Human Resource Management,Self-sponsored,Mexican,35,Masters,39,15
+Sarah Williams,98916262,School of Science & Technology,2025,2029,Male,Biotechnology,Sponsored,Ugandan,65,PhD,10,15
+Peter Miller,64197308,Chandaria School of Business,2023,2026,Other,Finance,Sponsored,Kenyan,126,Undergraduate,25,40
+Michael Smith,95328953,"School of Communication, Cinematic & Creative Arts",2022,2023,Female,Journalism,Self-sponsored,Tanzanian,38,Masters,47,12
+Michael Wilson,94651519,School of Science & Technology,2023,2027,Female,Mathematics,Sponsored,South African,54,PhD,26,12
+Sarah Davis,86158746,School of Humanities & Social Sciences,2025,2029,Female,Psychology,Self-sponsored,German,136,Undergraduate,49,42
+John Miller,13500464,Chandaria School of Business,2022,2023,Male,Finance,Self-sponsored,Australian,41,Masters,19,12
+Jane Doe,82453902,School of Science & Technology,2022,2027,Female,Computer Science,Sponsored,Canadian,71,PhD,15,16
+Michael Wilson,59047779,School of Science & Technology,2023,2027,Other,Mathematics,Sponsored,Chinese,127,Undergraduate,30,40
+Mary Wilson,16752983,School of Humanities & Social Sciences,2025,2027,Female,Sociology,Self-sponsored,Ugandan,53,Masters,34,13
+John Doe,63792504,School of Pharmacy & Health Sciences,2025,2029,Other,Nursing,Sponsored,British,48,PhD,35,16
+David Davis,94316620,School of Pharmacy & Health Sciences,2022,2026,Other,Public Health,Self-sponsored,Brazilian,67,PhD,38,15
+Peter Brown,81932916,School of Pharmacy & Health Sciences,2024,2029,Other,Nursing,Self-sponsored,German,52,PhD,27,13
+David Williams,84948028,"School of Communication, Cinematic & Creative Arts",2022,2027,Male,Journalism,Sponsored,Chinese,48,PhD,33,12
+David Smith,77799753,School of Humanities & Social Sciences,2024,2026,Male,International Relations,Self-sponsored,Tanzanian,46,Masters,30,16
+Sarah Jones,15795961,School of Pharmacy & Health Sciences,2022,2026,Female,Nursing,Sponsored,Brazilian,49,PhD,10,13
+John Davis,85221164,School of Science & Technology,2023,2024,Female,Mathematics,Sponsored,Australian,45,Masters,16,13
+Emily Wilson,13939992,School of Science & Technology,2022,2027,Female,Mathematics,Sponsored,German,62,PhD,13,14
+Peter Doe,61091679,"School of Communication, Cinematic & Creative Arts",2024,2026,Male,Journalism,Sponsored,Mexican,44,Masters,49,13
+Jane Doe,31798721,"School of Communication, Cinematic & Creative Arts",2024,2028,Other,Journalism,Sponsored,Canadian,82,PhD,18,12
+Jane Wilson,82405037,Chandaria School of Business,2022,2026,Male,Marketing,Self-sponsored,Indian,128,Undergraduate,37,43
+Sarah Jones,31263803,"School of Graduate Studies, Research & Extension",2025,2028,Other,Thesis Writing,Self-sponsored,German,66,PhD,30,15
+Sarah Doe,94118504,School of Humanities & Social Sciences,2023,2024,Female,Sociology,Self-sponsored,Rwandan,37,Masters,23,15
+Mary Wilson,81546269,School of Science & Technology,2024,2027,Other,Biotechnology,Self-sponsored,American,81,PhD,16,13
+Michael Jones,51347657,School of Humanities & Social Sciences,2024,2029,Female,Sociology,Sponsored,Nigerian,89,PhD,29,16
+Jane Davis,45428161,Chandaria School of Business,2025,2030,Other,Finance,Self-sponsored,American,75,PhD,40,12
+David Brown,67893783,Chandaria School of Business,2024,2028,Other,Human Resource Management,Sponsored,Ugandan,130,Undergraduate,24,44
+Peter Jones,45125626,Chandaria School of Business,2025,2027,Female,Marketing,Sponsored,British,59,Masters,22,13
+Michael Doe,93892561,School of Pharmacy & Health Sciences,2022,2023,Other,Public Health,Self-sponsored,German,40,Masters,10,12
+John Smith,20113692,School of Science & Technology,2025,2026,Male,Computer Science,Self-sponsored,Indian,40,Masters,11,16
+Peter Brown,14720526,School of Humanities & Social Sciences,2023,2025,Female,International Relations,Sponsored,Tanzanian,35,Masters,49,16
+Mary Wilson,98248201,School of Humanities & Social Sciences,2024,2026,Other,Psychology,Sponsored,French,30,Masters,12,14
+John Davis,76874278,School of Pharmacy & Health Sciences,2024,2026,Other,Nursing,Self-sponsored,Canadian,42,Masters,47,12
+Sarah Doe,63788948,School of Humanities & Social Sciences,2023,2027,Female,Sociology,Self-sponsored,German,78,PhD,20,15
+Emily Smith,75168946,Chandaria School of Business,2023,2026,Other,Human Resource Management,Self-sponsored,Ugandan,139,Undergraduate,25,41
+Peter Davis,83840001,"School of Graduate Studies, Research & Extension",2025,2026,Male,Advanced Statistics,Self-sponsored,British,53,Masters,10,16
+Mary Davis,45412603,School of Humanities & Social Sciences,2023,2024,Male,International Relations,Sponsored,Brazilian,38,Masters,21,13
+Michael Miller,49962052,"School of Communication, Cinematic & Creative Arts",2024,2025,Male,Film Production,Self-sponsored,Kenyan,32,Masters,44,12
+Peter Williams,65577576,"School of Graduate Studies, Research & Extension",2025,2027,Female,Thesis Writing,Self-sponsored,Rwandan,53,Masters,23,13
+Peter Jones,82344571,"School of Graduate Studies, Research & Extension",2025,2029,Other,Research Methodology,Sponsored,Chinese,82,PhD,20,16
+David Miller,75717448,Chandaria School of Business,2023,2027,Female,Human Resource Management,Self-sponsored,Tanzanian,158,Undergraduate,44,40
+Michael Williams,43896535,School of Pharmacy & Health Sciences,2025,2030,Male,Pharmacology,Self-sponsored,Chinese,68,PhD,50,14
+John Doe,47158545,School of Science & Technology,2023,2025,Female,Computer Science,Sponsored,Rwandan,53,Masters,29,12
+David Miller,96199710,School of Science & Technology,2023,2027,Other,Computer Science,Sponsored,Australian,58,PhD,37,13
+Peter Doe,83674639,School of Humanities & Social Sciences,2025,2028,Female,Sociology,Self-sponsored,Chinese,84,PhD,37,12
+John Jones,72089654,Chandaria School of Business,2024,2028,Female,Human Resource Management,Sponsored,Chinese,57,PhD,10,16
+John Williams,68254116,School of Pharmacy & Health Sciences,2024,2029,Female,Nursing,Sponsored,Brazilian,53,PhD,15,12
+Emily Jones,89229037,Chandaria School of Business,2022,2023,Other,Marketing,Self-sponsored,Rwandan,39,Masters,15,16
+David Brown,46695856,School of Science & Technology,2023,2026,Female,Biotechnology,Sponsored,British,154,Undergraduate,36,43
+David Jones,91050939,School of Pharmacy & Health Sciences,2024,2028,Male,Nursing,Sponsored,South African,50,PhD,13,15
+Peter Wilson,89078010,"School of Communication, Cinematic & Creative Arts",2023,2026,Male,Film Production,Sponsored,Canadian,136,Undergraduate,41,42
+David Brown,82137171,School of Science & Technology,2023,2025,Female,Mathematics,Sponsored,Kenyan,35,Masters,26,12
+David Jones,45809231,"School of Communication, Cinematic & Creative Arts",2024,2027,Male,Journalism,Sponsored,Australian,140,Undergraduate,23,44
+Mary Williams,65009997,"School of Communication, Cinematic & Creative Arts",2023,2025,Male,Film Production,Self-sponsored,German,55,Masters,41,16
+Sarah Doe,94488087,"School of Graduate Studies, Research & Extension",2024,2027,Female,Advanced Statistics,Sponsored,South African,77,PhD,15,16
+Sarah Brown,63434918,School of Science & Technology,2025,2029,Female,Computer Science,Self-sponsored,Indian,120,Undergraduate,14,41
+John Brown,26923254,School of Science & Technology,2024,2025,Female,Computer Science,Self-sponsored,Chinese,40,Masters,24,12
+John Wilson,48435929,"School of Communication, Cinematic & Creative Arts",2022,2025,Female,Graphic Design,Self-sponsored,Rwandan,129,Undergraduate,37,42
+Emily Williams,43054703,School of Science & Technology,2023,2024,Other,Biotechnology,Sponsored,Ugandan,60,Masters,42,14
+Emily Wilson,73449149,"School of Communication, Cinematic & Creative Arts",2023,2024,Other,Graphic Design,Sponsored,Tanzanian,54,Masters,41,14
+Peter Williams,30561883,"School of Communication, Cinematic & Creative Arts",2025,2028,Other,Graphic Design,Self-sponsored,German,129,Undergraduate,22,44
+Michael Williams,82951389,School of Pharmacy & Health Sciences,2023,2026,Male,Public Health,Sponsored,Australian,46,PhD,21,13
+John Davis,54114734,"School of Graduate Studies, Research & Extension",2023,2026,Other,Research Methodology,Self-sponsored,American,63,PhD,24,13
+Sarah Jones,62301589,Chandaria School of Business,2023,2027,Male,Marketing,Self-sponsored,British,77,PhD,11,16
+Jane Jones,95970247,School of Pharmacy & Health Sciences,2024,2027,Male,Nursing,Sponsored,Kenyan,75,PhD,49,13
+Mary Miller,10898444,"School of Graduate Studies, Research & Extension",2022,2026,Other,Research Methodology,Sponsored,Tanzanian,138,Undergraduate,25,43
+John Doe,42406666,Chandaria School of Business,2025,2029,Other,Finance,Sponsored,Canadian,145,Undergraduate,45,44
+Emily Miller,25061618,School of Pharmacy & Health Sciences,2022,2026,Other,Nursing,Self-sponsored,British,145,Undergraduate,42,41
+John Jones,10627113,"School of Graduate Studies, Research & Extension",2025,2029,Other,Advanced Statistics,Self-sponsored,American,130,Undergraduate,25,43
+Sarah Williams,93418378,School of Humanities & Social Sciences,2024,2027,Female,Sociology,Self-sponsored,Indian,120,Undergraduate,22,43
+Sarah Jones,77490871,"School of Communication, Cinematic & Creative Arts",2022,2026,Male,Graphic Design,Self-sponsored,Canadian,75,PhD,44,13
+Peter Davis,41826910,"School of Communication, Cinematic & Creative Arts",2025,2026,Male,Journalism,Self-sponsored,Australian,38,Masters,34,15
+Mary Smith,36925211,School of Humanities & Social Sciences,2023,2025,Female,Sociology,Sponsored,Tanzanian,54,Masters,10,15
+Emily Williams,30535690,School of Pharmacy & Health Sciences,2024,2025,Female,Pharmacology,Self-sponsored,Ugandan,54,Masters,19,15
+Peter Doe,86387391,School of Humanities & Social Sciences,2022,2024,Female,Psychology,Sponsored,Rwandan,37,Masters,20,14
+David Williams,89342885,School of Humanities & Social Sciences,2023,2027,Other,Psychology,Sponsored,British,143,Undergraduate,40,40
+John Wilson,82750043,School of Pharmacy & Health Sciences,2025,2029,Female,Nursing,Self-sponsored,Kenyan,128,Undergraduate,21,44
+Peter Doe,36337403,"School of Communication, Cinematic & Creative Arts",2023,2025,Other,Graphic Design,Sponsored,Kenyan,35,Masters,42,12
+Peter Smith,26850390,"School of Graduate Studies, Research & Extension",2025,2030,Male,Research Methodology,Sponsored,Nigerian,59,PhD,30,13
+Jane Wilson,76136457,Chandaria School of Business,2025,2026,Male,Finance,Self-sponsored,Tanzanian,58,Masters,37,16
+Jane Jones,97293697,School of Pharmacy & Health Sciences,2022,2024,Male,Public Health,Sponsored,Brazilian,60,Masters,49,15
+Emily Doe,79383120,"School of Graduate Studies, Research & Extension",2022,2025,Male,Research Methodology,Self-sponsored,British,46,PhD,14,13
+Mary Wilson,11432140,Chandaria School of Business,2023,2026,Other,Finance,Sponsored,Australian,122,Undergraduate,41,41
+Michael Doe,62011131,School of Science & Technology,2023,2025,Male,Computer Science,Sponsored,British,38,Masters,44,15
+John Williams,12708604,"School of Communication, Cinematic & Creative Arts",2024,2027,Male,Graphic Design,Sponsored,Nigerian,150,Undergraduate,32,43
+David Doe,23865915,School of Humanities & Social Sciences,2024,2028,Other,Sociology,Self-sponsored,German,141,Undergraduate,36,42
+Michael Brown,12028313,Chandaria School of Business,2022,2026,Male,Finance,Sponsored,Canadian,160,Undergraduate,29,44
+David Doe,98036923,School of Science & Technology,2023,2027,Other,Computer Science,Sponsored,Canadian,70,PhD,46,13
+Sarah Wilson,75017378,"School of Graduate Studies, Research & Extension",2025,2029,Other,Thesis Writing,Self-sponsored,Chinese,75,PhD,35,14
+Emily Wilson,62730234,School of Humanities & Social Sciences,2022,2027,Male,International Relations,Self-sponsored,Brazilian,60,PhD,42,12
+John Jones,76194383,"School of Graduate Studies, Research & Extension",2022,2025,Other,Advanced Statistics,Sponsored,American,151,Undergraduate,20,40
+John Smith,30934704,"School of Communication, Cinematic & Creative Arts",2024,2028,Other,Film Production,Sponsored,French,151,Undergraduate,40,43
+Jane Doe,62982433,School of Pharmacy & Health Sciences,2024,2026,Female,Nursing,Self-sponsored,British,50,Masters,26,12
+Michael Wilson,50426998,"School of Communication, Cinematic & Creative Arts",2025,2029,Female,Journalism,Sponsored,British,154,Undergraduate,10,41
+David Smith,28998796,School of Pharmacy & Health Sciences,2023,2027,Other,Nursing,Self-sponsored,Brazilian,143,Undergraduate,27,40
+Peter Miller,47488733,Chandaria School of Business,2024,2026,Female,Human Resource Management,Self-sponsored,Ugandan,53,Masters,14,16
+Jane Brown,50498409,Chandaria School of Business,2023,2027,Male,Human Resource Management,Sponsored,Indian,159,Undergraduate,35,42
+Emily Doe,95513695,Chandaria School of Business,2025,2026,Female,Marketing,Self-sponsored,South African,57,Masters,50,16
+Peter Jones,74350159,School of Pharmacy & Health Sciences,2024,2028,Male,Pharmacology,Sponsored,Ugandan,76,PhD,45,16
+Michael Wilson,84392800,School of Science & Technology,2024,2027,Male,Biotechnology,Sponsored,Mexican,143,Undergraduate,32,43
+Mary Davis,61934224,School of Science & Technology,2022,2025,Other,Computer Science,Self-sponsored,Ugandan,157,Undergraduate,48,43
+David Doe,97426338,"School of Communication, Cinematic & Creative Arts",2022,2024,Female,Graphic Design,Sponsored,French,35,Masters,48,14
+Jane Miller,75930760,School of Humanities & Social Sciences,2025,2029,Male,International Relations,Sponsored,Mexican,53,PhD,29,15
+Peter Davis,51341857,"School of Communication, Cinematic & Creative Arts",2022,2024,Other,Graphic Design,Sponsored,Ugandan,33,Masters,35,12
+Peter Brown,89696059,School of Humanities & Social Sciences,2022,2026,Male,International Relations,Sponsored,Mexican,126,Undergraduate,12,40
+Jane Wilson,46527937,"School of Communication, Cinematic & Creative Arts",2024,2028,Female,Graphic Design,Sponsored,Nigerian,87,PhD,20,13
+Peter Davis,15756184,School of Science & Technology,2022,2026,Female,Mathematics,Sponsored,Rwandan,131,Undergraduate,38,42
+David Williams,29573326,School of Humanities & Social Sciences,2024,2028,Other,Psychology,Sponsored,Nigerian,146,Undergraduate,24,42
+David Smith,59454894,School of Science & Technology,2022,2027,Other,Biotechnology,Self-sponsored,French,88,PhD,25,12
+Sarah Jones,52429172,"School of Communication, Cinematic & Creative Arts",2022,2023,Other,Film Production,Self-sponsored,French,34,Masters,15,12
+Sarah Williams,65259502,Chandaria School of Business,2022,2026,Male,Finance,Self-sponsored,French,137,Undergraduate,48,42
+Mary Miller,78314581,"School of Graduate Studies, Research & Extension",2025,2029,Other,Thesis Writing,Self-sponsored,Rwandan,145,Undergraduate,39,43
+Mary Brown,31250243,School of Science & Technology,2023,2026,Male,Computer Science,Sponsored,American,72,PhD,26,12
+Peter Davis,26646512,"School of Graduate Studies, Research & Extension",2022,2026,Female,Thesis Writing,Sponsored,American,127,Undergraduate,35,42
+Peter Miller,80650541,School of Humanities & Social Sciences,2024,2028,Other,Psychology,Sponsored,Ugandan,54,PhD,40,13
+Mary Davis,58079507,School of Science & Technology,2024,2028,Female,Mathematics,Self-sponsored,Mexican,73,PhD,16,12
+Michael Jones,29507533,"School of Communication, Cinematic & Creative Arts",2025,2029,Other,Film Production,Self-sponsored,Brazilian,158,Undergraduate,42,44
+Michael Doe,68393552,School of Humanities & Social Sciences,2022,2026,Other,International Relations,Self-sponsored,Australian,150,Undergraduate,20,40
+John Miller,46838516,School of Science & Technology,2022,2025,Other,Computer Science,Self-sponsored,Brazilian,122,Undergraduate,34,44
+John Doe,69334925,"School of Communication, Cinematic & Creative Arts",2025,2029,Male,Journalism,Self-sponsored,South African,151,Undergraduate,49,42
+Mary Smith,95078110,Chandaria School of Business,2023,2028,Male,Finance,Self-sponsored,Canadian,53,PhD,20,13
+John Wilson,23780745,School of Science & Technology,2025,2028,Male,Mathematics,Sponsored,Brazilian,50,PhD,15,14
+David Jones,84593172,Chandaria School of Business,2024,2026,Other,Human Resource Management,Self-sponsored,Nigerian,60,Masters,31,16
+Emily Davis,21603009,School of Pharmacy & Health Sciences,2023,2026,Other,Public Health,Sponsored,Tanzanian,133,Undergraduate,41,44
+Jane Davis,58445982,"School of Graduate Studies, Research & Extension",2024,2028,Other,Thesis Writing,Self-sponsored,Tanzanian,71,PhD,36,16
+Peter Brown,98907410,"School of Communication, Cinematic & Creative Arts",2025,2029,Other,Film Production,Sponsored,Ugandan,145,Undergraduate,23,40
+Mary Wilson,59778455,School of Science & Technology,2022,2025,Male,Biotechnology,Self-sponsored,Kenyan,63,PhD,37,12
+John Davis,95456862,"School of Communication, Cinematic & Creative Arts",2024,2027,Male,Film Production,Self-sponsored,Ugandan,156,Undergraduate,39,42
+Sarah Jones,72127216,School of Science & Technology,2024,2027,Male,Mathematics,Self-sponsored,Indian,125,Undergraduate,38,43
+Jane Brown,46617307,Chandaria School of Business,2024,2029,Male,Marketing,Sponsored,Nigerian,47,PhD,11,15
+Sarah Jones,18154441,School of Humanities & Social Sciences,2025,2026,Other,International Relations,Sponsored,Tanzanian,51,Masters,11,14
+John Smith,93835212,School of Humanities & Social Sciences,2022,2025,Female,Sociology,Self-sponsored,Mexican,76,PhD,46,12
+David Wilson,80011738,School of Humanities & Social Sciences,2022,2025,Female,Psychology,Sponsored,Indian,160,Undergraduate,15,40
+David Williams,12672062,School of Pharmacy & Health Sciences,2024,2028,Other,Pharmacology,Self-sponsored,American,64,PhD,25,14
+Jane Jones,24645520,Chandaria School of Business,2025,2028,Female,Marketing,Sponsored,Tanzanian,75,PhD,16,15
+Michael Jones,61750201,School of Humanities & Social Sciences,2022,2026,Male,International Relations,Sponsored,Chinese,128,Undergraduate,42,40
+Mary Doe,69229438,"School of Communication, Cinematic & Creative Arts",2022,2026,Other,Journalism,Sponsored,Australian,47,PhD,44,12
+Michael Wilson,75542500,School of Pharmacy & Health Sciences,2023,2025,Female,Nursing,Self-sponsored,Tanzanian,53,Masters,30,12
+David Miller,45203322,"School of Graduate Studies, Research & Extension",2025,2028,Female,Advanced Statistics,Self-sponsored,French,150,Undergraduate,39,40
+John Doe,34636246,School of Pharmacy & Health Sciences,2022,2025,Male,Public Health,Sponsored,Kenyan,132,Undergraduate,20,42
+Jane Doe,69056141,"School of Graduate Studies, Research & Extension",2025,2026,Male,Thesis Writing,Sponsored,Indian,35,Masters,17,14
+Emily Williams,44171336,"School of Communication, Cinematic & Creative Arts",2023,2027,Other,Film Production,Self-sponsored,American,58,PhD,46,12
+Mary Williams,91361548,Chandaria School of Business,2025,2026,Male,Finance,Self-sponsored,South African,52,Masters,20,14
+Michael Williams,93793234,"School of Graduate Studies, Research & Extension",2022,2025,Female,Research Methodology,Self-sponsored,Kenyan,81,PhD,39,13
+Peter Wilson,34849351,"School of Graduate Studies, Research & Extension",2022,2026,Female,Thesis Writing,Sponsored,Mexican,74,PhD,39,12
+Sarah Williams,27148406,School of Science & Technology,2022,2025,Other,Mathematics,Sponsored,Brazilian,127,Undergraduate,19,40
+John Wilson,51235281,"School of Graduate Studies, Research & Extension",2024,2027,Male,Thesis Writing,Sponsored,German,129,Undergraduate,24,44
+Michael Davis,92817496,School of Pharmacy & Health Sciences,2022,2025,Other,Nursing,Sponsored,Brazilian,126,Undergraduate,10,43
+Jane Smith,25651522,"School of Communication, Cinematic & Creative Arts",2022,2025,Male,Film Production,Sponsored,Australian,148,Undergraduate,42,40
+Jane Brown,89593014,School of Pharmacy & Health Sciences,2022,2026,Other,Nursing,Self-sponsored,French,149,Undergraduate,23,42
+Peter Miller,22152393,"School of Communication, Cinematic & Creative Arts",2024,2028,Male,Graphic Design,Self-sponsored,Kenyan,142,Undergraduate,39,42
+David Miller,50213436,Chandaria School of Business,2024,2025,Other,Marketing,Self-sponsored,American,53,Masters,14,12
+Peter Doe,79193019,"School of Communication, Cinematic & Creative Arts",2023,2027,Female,Journalism,Self-sponsored,Kenyan,130,Undergraduate,38,43
+Michael Brown,96161975,Chandaria School of Business,2025,2027,Other,Finance,Self-sponsored,Rwandan,53,Masters,46,16
+Jane Brown,54319486,School of Pharmacy & Health Sciences,2025,2026,Male,Public Health,Self-sponsored,Mexican,60,Masters,29,16
+David Wilson,14794153,School of Science & Technology,2023,2025,Male,Mathematics,Self-sponsored,Brazilian,44,Masters,21,14
+David Miller,80850705,"School of Communication, Cinematic & Creative Arts",2024,2027,Male,Film Production,Sponsored,Brazilian,144,Undergraduate,41,44
+David Wilson,79945574,"School of Graduate Studies, Research & Extension",2023,2025,Other,Thesis Writing,Sponsored,Brazilian,56,Masters,28,12
+Jane Jones,36151459,School of Pharmacy & Health Sciences,2025,2028,Female,Pharmacology,Sponsored,Brazilian,90,PhD,21,13
+Jane Davis,91496630,"School of Graduate Studies, Research & Extension",2023,2027,Other,Advanced Statistics,Self-sponsored,French,156,Undergraduate,12,40
+John Brown,91947355,School of Humanities & Social Sciences,2023,2027,Female,Psychology,Self-sponsored,Indian,136,Undergraduate,15,41
+Sarah Williams,92625211,Chandaria School of Business,2025,2028,Female,Marketing,Sponsored,American,56,PhD,48,16
+Mary Smith,39859485,School of Pharmacy & Health Sciences,2022,2027,Other,Nursing,Self-sponsored,Brazilian,73,PhD,17,13
+Emily Miller,42579405,"School of Communication, Cinematic & Creative Arts",2023,2025,Female,Film Production,Self-sponsored,British,41,Masters,14,15
+Jane Williams,34114853,Chandaria School of Business,2025,2027,Male,Marketing,Sponsored,Canadian,36,Masters,26,16
+Jane Jones,34858191,Chandaria School of Business,2024,2028,Other,Human Resource Management,Sponsored,South African,76,PhD,12,16
+David Davis,98230816,"School of Graduate Studies, Research & Extension",2025,2028,Female,Thesis Writing,Sponsored,American,73,PhD,35,15
+John Williams,83553647,School of Humanities & Social Sciences,2024,2028,Male,Psychology,Sponsored,South African,67,PhD,27,12
+Mary Jones,59548431,School of Humanities & Social Sciences,2025,2029,Other,Psychology,Self-sponsored,Rwandan,47,PhD,30,12
+Michael Wilson,51690922,Chandaria School of Business,2023,2024,Other,Finance,Sponsored,Ugandan,50,Masters,28,13
+Peter Williams,37628038,School of Pharmacy & Health Sciences,2024,2027,Female,Pharmacology,Self-sponsored,Canadian,50,PhD,16,14
+David Davis,55892669,"School of Communication, Cinematic & Creative Arts",2023,2026,Other,Film Production,Self-sponsored,Indian,82,PhD,32,12
+Sarah Williams,72660752,Chandaria School of Business,2023,2027,Female,Human Resource Management,Self-sponsored,Nigerian,127,Undergraduate,10,43
+John Davis,50492368,"School of Graduate Studies, Research & Extension",2025,2026,Male,Advanced Statistics,Self-sponsored,Kenyan,56,Masters,41,13
+Michael Miller,52410744,School of Humanities & Social Sciences,2024,2028,Male,Sociology,Sponsored,British,141,Undergraduate,19,44
+Jane Brown,79415600,"School of Graduate Studies, Research & Extension",2023,2027,Male,Research Methodology,Sponsored,Rwandan,123,Undergraduate,18,44
+David Smith,77848086,School of Pharmacy & Health Sciences,2022,2026,Female,Nursing,Sponsored,Tanzanian,129,Undergraduate,38,42
+Emily Wilson,74807454,"School of Communication, Cinematic & Creative Arts",2023,2025,Other,Journalism,Sponsored,South African,46,Masters,49,15
+John Doe,40889098,School of Pharmacy & Health Sciences,2025,2028,Female,Pharmacology,Sponsored,French,45,PhD,32,13
+David Miller,80608221,School of Science & Technology,2025,2028,Male,Mathematics,Self-sponsored,Canadian,139,Undergraduate,31,43
+John Doe,25535867,School of Science & Technology,2025,2026,Female,Computer Science,Self-sponsored,Australian,59,Masters,38,14
+Peter Smith,82485535,"School of Communication, Cinematic & Creative Arts",2025,2027,Female,Journalism,Sponsored,German,30,Masters,44,13
+Mary Davis,43012031,"School of Communication, Cinematic & Creative Arts",2022,2023,Male,Graphic Design,Self-sponsored,Indian,32,Masters,32,12
+Michael Davis,52145459,"School of Communication, Cinematic & Creative Arts",2025,2029,Female,Film Production,Self-sponsored,Mexican,64,PhD,43,15
+John Wilson,61416012,"School of Communication, Cinematic & Creative Arts",2023,2027,Male,Journalism,Sponsored,South African,78,PhD,39,14
+Sarah Smith,84293136,"School of Graduate Studies, Research & Extension",2025,2028,Other,Research Methodology,Sponsored,French,63,PhD,32,14
+Sarah Williams,79406195,"School of Communication, Cinematic & Creative Arts",2022,2027,Other,Journalism,Self-sponsored,Kenyan,67,PhD,46,15
+Mary Williams,18329866,School of Humanities & Social Sciences,2022,2025,Female,Sociology,Sponsored,South African,64,PhD,14,12
+David Miller,85179615,"School of Graduate Studies, Research & Extension",2023,2028,Female,Research Methodology,Self-sponsored,Rwandan,58,PhD,22,12
+Mary Jones,65527554,School of Pharmacy & Health Sciences,2022,2026,Other,Nursing,Sponsored,French,140,Undergraduate,23,40
+Sarah Doe,35681923,School of Science & Technology,2023,2027,Other,Biotechnology,Self-sponsored,Tanzanian,148,Undergraduate,24,41
+Jane Davis,75051869,Chandaria School of Business,2024,2029,Other,Marketing,Self-sponsored,British,49,PhD,50,16
+Jane Brown,62675110,"School of Communication, Cinematic & Creative Arts",2025,2028,Other,Film Production,Sponsored,French,135,Undergraduate,28,44
+Emily Davis,31562040,Chandaria School of Business,2025,2026,Other,Finance,Sponsored,Brazilian,41,Masters,18,13
+Emily Williams,74008899,"School of Communication, Cinematic & Creative Arts",2024,2025,Male,Journalism,Self-sponsored,German,31,Masters,22,16
+Sarah Williams,28710063,"School of Communication, Cinematic & Creative Arts",2022,2027,Other,Journalism,Sponsored,Canadian,88,PhD,28,15
+John Smith,17193995,Chandaria School of Business,2022,2026,Female,Marketing,Self-sponsored,Canadian,158,Undergraduate,32,43
+Mary Wilson,68079197,"School of Graduate Studies, Research & Extension",2022,2026,Other,Advanced Statistics,Sponsored,American,140,Undergraduate,50,41
+Jane Davis,31000850,School of Science & Technology,2024,2029,Other,Mathematics,Self-sponsored,Rwandan,67,PhD,35,15
+Emily Wilson,65620236,Chandaria School of Business,2023,2027,Female,Finance,Sponsored,Australian,126,Undergraduate,45,40
+John Davis,20733810,School of Pharmacy & Health Sciences,2024,2025,Other,Nursing,Sponsored,Brazilian,41,Masters,49,16
+David Williams,15099532,School of Pharmacy & Health Sciences,2025,2030,Male,Nursing,Self-sponsored,French,55,PhD,20,15
+Mary Brown,55521420,School of Science & Technology,2022,2024,Male,Biotechnology,Self-sponsored,Kenyan,53,Masters,50,14
+Emily Smith,60504018,School of Humanities & Social Sciences,2024,2026,Male,Sociology,Sponsored,Indian,45,Masters,38,14
+John Jones,13308916,School of Science & Technology,2024,2029,Female,Computer Science,Sponsored,Ugandan,85,PhD,19,15
+Sarah Davis,77200584,"School of Communication, Cinematic & Creative Arts",2022,2027,Female,Film Production,Sponsored,British,83,PhD,12,14
+Emily Jones,70413738,School of Science & Technology,2025,2027,Other,Biotechnology,Sponsored,Canadian,57,Masters,42,15
+Jane Davis,88307869,School of Humanities & Social Sciences,2024,2026,Other,Sociology,Sponsored,Australian,36,Masters,27,16
+Jane Brown,20075386,"School of Communication, Cinematic & Creative Arts",2025,2026,Male,Journalism,Self-sponsored,German,40,Masters,19,13
+Emily Davis,83404266,Chandaria School of Business,2025,2029,Male,Human Resource Management,Sponsored,Australian,126,Undergraduate,48,40
+Michael Brown,86515285,School of Science & Technology,2022,2023,Female,Biotechnology,Self-sponsored,Ugandan,59,Masters,13,16
+Sarah Smith,79993690,"School of Graduate Studies, Research & Extension",2025,2026,Male,Thesis Writing,Self-sponsored,Australian,37,Masters,15,13
+Mary Miller,34300435,School of Pharmacy & Health Sciences,2022,2026,Female,Nursing,Self-sponsored,British,50,PhD,20,16
+Peter Doe,91940179,"School of Graduate Studies, Research & Extension",2025,2028,Other,Advanced Statistics,Self-sponsored,Australian,74,PhD,13,14
+Mary Williams,23269160,Chandaria School of Business,2025,2029,Other,Human Resource Management,Sponsored,Chinese,158,Undergraduate,12,43
+Jane Brown,32590144,Chandaria School of Business,2022,2026,Other,Human Resource Management,Self-sponsored,Mexican,128,Undergraduate,41,40
+Michael Brown,75220551,School of Pharmacy & Health Sciences,2025,2030,Other,Pharmacology,Self-sponsored,French,67,PhD,11,16
+Mary Brown,58381801,School of Pharmacy & Health Sciences,2022,2027,Male,Pharmacology,Self-sponsored,American,66,PhD,19,14
+Mary Smith,15478180,Chandaria School of Business,2025,2027,Other,Human Resource Management,Sponsored,American,43,Masters,47,15
+Peter Miller,29079543,"School of Graduate Studies, Research & Extension",2022,2026,Female,Research Methodology,Self-sponsored,Tanzanian,53,PhD,35,13
+Peter Wilson,92717761,Chandaria School of Business,2023,2027,Male,Human Resource Management,Self-sponsored,Brazilian,129,Undergraduate,40,43
+Jane Miller,51153959,"School of Communication, Cinematic & Creative Arts",2022,2027,Male,Graphic Design,Sponsored,French,69,PhD,42,16
+John Davis,13242720,"School of Graduate Studies, Research & Extension",2024,2027,Female,Thesis Writing,Self-sponsored,Canadian,139,Undergraduate,50,42
+Sarah Miller,16090800,"School of Communication, Cinematic & Creative Arts",2024,2028,Male,Graphic Design,Self-sponsored,Australian,68,PhD,30,13
+Jane Miller,50777489,"School of Graduate Studies, Research & Extension",2024,2027,Female,Research Methodology,Sponsored,Ugandan,60,PhD,25,14
+Jane Jones,18955152,"School of Graduate Studies, Research & Extension",2023,2024,Male,Advanced Statistics,Sponsored,American,48,Masters,34,16
+David Miller,42847001,"School of Graduate Studies, Research & Extension",2022,2026,Male,Research Methodology,Self-sponsored,Brazilian,67,PhD,19,15
+John Miller,80577268,School of Science & Technology,2022,2024,Other,Mathematics,Sponsored,Rwandan,51,Masters,41,16
+Peter Wilson,58058583,"School of Graduate Studies, Research & Extension",2022,2024,Male,Advanced Statistics,Self-sponsored,Ugandan,60,Masters,35,13
+Sarah Wilson,93559107,School of Humanities & Social Sciences,2025,2028,Male,Psychology,Self-sponsored,American,52,PhD,17,13
+John Jones,32037467,"School of Communication, Cinematic & Creative Arts",2022,2026,Male,Film Production,Sponsored,Canadian,85,PhD,33,14
+Emily Brown,91647390,School of Science & Technology,2024,2027,Male,Computer Science,Sponsored,Brazilian,142,Undergraduate,11,44
+Emily Jones,72693068,"School of Graduate Studies, Research & Extension",2024,2026,Male,Thesis Writing,Sponsored,Chinese,43,Masters,15,12
+David Jones,53535363,"School of Graduate Studies, Research & Extension",2024,2027,Other,Advanced Statistics,Self-sponsored,Ugandan,85,PhD,50,12
+Mary Miller,62928632,School of Science & Technology,2024,2027,Male,Computer Science,Sponsored,Rwandan,134,Undergraduate,26,40
+Peter Brown,27546426,School of Humanities & Social Sciences,2022,2025,Female,Psychology,Self-sponsored,Nigerian,67,PhD,23,15
+Jane Doe,48630230,"School of Graduate Studies, Research & Extension",2024,2026,Other,Research Methodology,Self-sponsored,Kenyan,35,Masters,32,16
+Emily Brown,89681319,"School of Communication, Cinematic & Creative Arts",2023,2026,Female,Graphic Design,Sponsored,French,131,Undergraduate,35,43
+Mary Brown,89821271,Chandaria School of Business,2025,2029,Female,Finance,Sponsored,French,156,Undergraduate,12,40
+Emily Jones,75846012,"School of Communication, Cinematic & Creative Arts",2023,2027,Male,Film Production,Self-sponsored,British,139,Undergraduate,48,41
+Jane Brown,94456759,"School of Graduate Studies, Research & Extension",2025,2028,Male,Thesis Writing,Sponsored,French,50,PhD,42,15
+David Davis,17244263,"School of Communication, Cinematic & Creative Arts",2025,2030,Male,Graphic Design,Sponsored,American,73,PhD,46,12
+Peter Wilson,49064817,School of Science & Technology,2022,2025,Other,Computer Science,Sponsored,South African,121,Undergraduate,41,40
+Mary Davis,80192389,"School of Graduate Studies, Research & Extension",2022,2023,Male,Research Methodology,Sponsored,Tanzanian,44,Masters,38,12
+Sarah Jones,79063303,School of Humanities & Social Sciences,2024,2028,Female,Sociology,Self-sponsored,Canadian,74,PhD,12,13
+Mary Williams,90465810,School of Pharmacy & Health Sciences,2025,2026,Male,Nursing,Sponsored,German,51,Masters,46,12
+Michael Doe,83116464,School of Science & Technology,2025,2029,Male,Computer Science,Sponsored,Australian,148,Undergraduate,33,41
+Emily Doe,84942383,"School of Communication, Cinematic & Creative Arts",2022,2025,Other,Film Production,Self-sponsored,French,125,Undergraduate,35,42
+Mary Miller,49846527,School of Science & Technology,2022,2026,Female,Computer Science,Self-sponsored,Chinese,89,PhD,45,13
+Michael Doe,52078045,"School of Graduate Studies, Research & Extension",2023,2027,Other,Research Methodology,Self-sponsored,British,157,Undergraduate,18,40
+Sarah Davis,82342561,"School of Graduate Studies, Research & Extension",2023,2024,Male,Research Methodology,Self-sponsored,Canadian,32,Masters,40,15
+Michael Doe,55768577,School of Pharmacy & Health Sciences,2024,2027,Female,Nursing,Sponsored,Mexican,80,PhD,38,12
+Sarah Davis,60047784,School of Science & Technology,2022,2025,Male,Computer Science,Sponsored,Chinese,46,PhD,26,14
+Michael Jones,49324439,Chandaria School of Business,2022,2027,Male,Finance,Sponsored,South African,48,PhD,20,14
+Sarah Doe,38689957,"School of Communication, Cinematic & Creative Arts",2024,2026,Male,Journalism,Sponsored,American,54,Masters,37,15
+David Wilson,10084601,"School of Graduate Studies, Research & Extension",2023,2024,Male,Advanced Statistics,Sponsored,Nigerian,56,Masters,43,14
+Michael Brown,13792088,School of Pharmacy & Health Sciences,2023,2027,Male,Nursing,Self-sponsored,Nigerian,133,Undergraduate,43,41
+David Smith,56645929,Chandaria School of Business,2023,2024,Female,Marketing,Sponsored,American,55,Masters,31,16
+Mary Jones,61111798,"School of Graduate Studies, Research & Extension",2023,2027,Female,Research Methodology,Sponsored,Australian,59,PhD,30,16
+David Doe,51314739,School of Science & Technology,2023,2028,Female,Biotechnology,Sponsored,British,51,PhD,34,16
+Emily Miller,99896998,"School of Graduate Studies, Research & Extension",2025,2029,Female,Thesis Writing,Sponsored,American,150,Undergraduate,14,43
+Peter Miller,33571940,"School of Communication, Cinematic & Creative Arts",2022,2026,Female,Journalism,Sponsored,Brazilian,85,PhD,28,15
+Emily Williams,26385365,School of Pharmacy & Health Sciences,2024,2027,Female,Pharmacology,Self-sponsored,Canadian,74,PhD,21,16
+Jane Brown,93471321,"School of Communication, Cinematic & Creative Arts",2023,2026,Male,Graphic Design,Self-sponsored,Brazilian,139,Undergraduate,28,41
+Michael Miller,10563095,Chandaria School of Business,2025,2028,Female,Human Resource Management,Self-sponsored,British,157,Undergraduate,13,42
+Emily Doe,72528865,"School of Communication, Cinematic & Creative Arts",2025,2028,Female,Film Production,Sponsored,French,128,Undergraduate,32,42
+John Jones,17024033,"School of Communication, Cinematic & Creative Arts",2025,2029,Female,Film Production,Sponsored,Rwandan,79,PhD,34,12
+Mary Wilson,41647378,"School of Graduate Studies, Research & Extension",2025,2027,Other,Advanced Statistics,Sponsored,Kenyan,47,Masters,42,14
+David Miller,53124812,School of Pharmacy & Health Sciences,2023,2028,Other,Pharmacology,Self-sponsored,Brazilian,84,PhD,46,13
+David Miller,55706211,School of Science & Technology,2025,2027,Female,Biotechnology,Self-sponsored,Kenyan,43,Masters,31,12
+Sarah Jones,83827275,School of Science & Technology,2024,2027,Male,Biotechnology,Sponsored,Tanzanian,79,PhD,19,14
+Sarah Williams,72764310,"School of Graduate Studies, Research & Extension",2022,2026,Other,Thesis Writing,Sponsored,British,128,Undergraduate,27,41
+Mary Jones,87139419,School of Humanities & Social Sciences,2024,2029,Male,Psychology,Sponsored,Indian,45,PhD,11,12
+Sarah Jones,99876610,"School of Communication, Cinematic & Creative Arts",2025,2026,Other,Journalism,Self-sponsored,British,31,Masters,38,15
+Mary Doe,89049692,Chandaria School of Business,2022,2025,Other,Marketing,Self-sponsored,Kenyan,150,Undergraduate,14,43
+Michael Smith,91736488,School of Science & Technology,2025,2028,Female,Biotechnology,Sponsored,Rwandan,142,Undergraduate,36,41
+Mary Jones,32603792,Chandaria School of Business,2024,2027,Other,Marketing,Sponsored,Tanzanian,158,Undergraduate,24,41
+Mary Jones,11950031,School of Pharmacy & Health Sciences,2023,2026,Female,Public Health,Sponsored,Brazilian,139,Undergraduate,22,41
+Michael Davis,38320324,"School of Communication, Cinematic & Creative Arts",2023,2024,Female,Journalism,Self-sponsored,Tanzanian,49,Masters,26,12
+Emily Doe,36797055,"School of Graduate Studies, Research & Extension",2025,2030,Other,Advanced Statistics,Self-sponsored,Brazilian,72,PhD,22,15
+John Brown,15912883,"School of Graduate Studies, Research & Extension",2022,2026,Male,Advanced Statistics,Self-sponsored,Rwandan,90,PhD,18,12
+Michael Smith,10829661,School of Pharmacy & Health Sciences,2025,2030,Other,Pharmacology,Self-sponsored,Kenyan,90,PhD,12,15
+Michael Brown,34728593,"School of Graduate Studies, Research & Extension",2023,2026,Other,Research Methodology,Sponsored,Kenyan,73,PhD,24,13
+Michael Miller,67627435,Chandaria School of Business,2025,2029,Female,Finance,Sponsored,Canadian,54,PhD,45,12
+Jane Jones,13723336,"School of Communication, Cinematic & Creative Arts",2025,2027,Male,Graphic Design,Sponsored,Brazilian,46,Masters,37,14
+David Williams,22911539,Chandaria School of Business,2025,2028,Male,Marketing,Self-sponsored,South African,50,PhD,37,13
+John Wilson,91119576,School of Science & Technology,2023,2025,Male,Computer Science,Sponsored,Australian,39,Masters,35,15
+Emily Brown,80593883,"School of Communication, Cinematic & Creative Arts",2024,2027,Female,Film Production,Self-sponsored,Indian,146,Undergraduate,19,44
+Emily Williams,39365775,"School of Graduate Studies, Research & Extension",2022,2026,Male,Research Methodology,Sponsored,Chinese,63,PhD,32,15
+Jane Jones,13357148,School of Pharmacy & Health Sciences,2024,2029,Male,Pharmacology,Sponsored,South African,84,PhD,10,12
+Mary Brown,66959206,School of Humanities & Social Sciences,2022,2024,Male,Psychology,Self-sponsored,Nigerian,30,Masters,48,12
+David Brown,44570753,School of Humanities & Social Sciences,2023,2028,Male,International Relations,Sponsored,Ugandan,49,PhD,16,12
+Mary Smith,80577717,School of Science & Technology,2023,2028,Male,Biotechnology,Self-sponsored,German,61,PhD,44,16
+Jane Jones,51686228,Chandaria School of Business,2022,2025,Other,Marketing,Sponsored,Canadian,122,Undergraduate,46,41
+Emily Miller,50329646,School of Pharmacy & Health Sciences,2022,2026,Female,Public Health,Self-sponsored,Brazilian,62,PhD,44,12
+John Wilson,32550545,School of Science & Technology,2024,2025,Female,Biotechnology,Self-sponsored,Chinese,43,Masters,30,12
+David Davis,45494841,School of Science & Technology,2022,2023,Female,Computer Science,Self-sponsored,South African,39,Masters,38,12
+David Doe,37067087,School of Humanities & Social Sciences,2024,2025,Other,International Relations,Sponsored,Chinese,30,Masters,49,13
+Jane Smith,27387600,"School of Graduate Studies, Research & Extension",2024,2027,Female,Research Methodology,Self-sponsored,American,155,Undergraduate,27,41
+Mary Davis,72898571,School of Science & Technology,2022,2025,Other,Computer Science,Sponsored,Tanzanian,48,PhD,44,14
+Emily Jones,89191947,Chandaria School of Business,2023,2027,Other,Finance,Sponsored,Kenyan,129,Undergraduate,35,44
+Jane Jones,10922484,"School of Graduate Studies, Research & Extension",2023,2024,Other,Advanced Statistics,Self-sponsored,Indian,39,Masters,40,15
+Emily Jones,64636172,School of Humanities & Social Sciences,2025,2027,Male,Psychology,Self-sponsored,Nigerian,39,Masters,12,15
+Mary Smith,47601923,School of Science & Technology,2023,2026,Female,Computer Science,Self-sponsored,Australian,139,Undergraduate,29,41
+John Wilson,38032034,School of Science & Technology,2025,2028,Female,Computer Science,Sponsored,Chinese,90,PhD,34,14
+Peter Wilson,80509610,Chandaria School of Business,2024,2027,Other,Human Resource Management,Sponsored,South African,57,PhD,23,12
+Sarah Doe,54458571,"School of Graduate Studies, Research & Extension",2024,2027,Female,Research Methodology,Sponsored,Brazilian,74,PhD,48,14
+Michael Davis,33640067,Chandaria School of Business,2022,2025,Female,Marketing,Self-sponsored,Rwandan,76,PhD,25,15
+Jane Wilson,67623269,"School of Communication, Cinematic & Creative Arts",2023,2028,Other,Film Production,Self-sponsored,Nigerian,64,PhD,23,12
+Jane Smith,20984883,Chandaria School of Business,2025,2028,Female,Finance,Sponsored,Kenyan,146,Undergraduate,10,43
+Peter Williams,92891826,School of Science & Technology,2022,2026,Female,Computer Science,Sponsored,Brazilian,149,Undergraduate,11,40
+Mary Brown,22044476,School of Science & Technology,2022,2025,Female,Biotechnology,Sponsored,German,123,Undergraduate,21,40
+Michael Doe,84892641,School of Pharmacy & Health Sciences,2024,2025,Other,Nursing,Sponsored,American,59,Masters,10,15
+Sarah Smith,53496438,"School of Graduate Studies, Research & Extension",2025,2029,Other,Research Methodology,Sponsored,British,84,PhD,33,14
+Michael Jones,40197569,Chandaria School of Business,2025,2028,Other,Marketing,Self-sponsored,Australian,75,PhD,36,12
+John Williams,94188702,Chandaria School of Business,2024,2029,Male,Human Resource Management,Self-sponsored,Kenyan,69,PhD,19,16
+David Miller,79528187,School of Pharmacy & Health Sciences,2022,2023,Other,Pharmacology,Sponsored,Chinese,54,Masters,29,14
+Michael Davis,85019711,"School of Graduate Studies, Research & Extension",2023,2026,Male,Thesis Writing,Self-sponsored,Ugandan,132,Undergraduate,35,40
+Peter Jones,62150127,"School of Graduate Studies, Research & Extension",2025,2030,Other,Thesis Writing,Self-sponsored,Indian,69,PhD,28,14
+David Brown,27450410,Chandaria School of Business,2023,2026,Female,Marketing,Self-sponsored,French,86,PhD,26,12
+Sarah Miller,25102784,"School of Communication, Cinematic & Creative Arts",2025,2027,Other,Film Production,Sponsored,Brazilian,56,Masters,33,15
+Mary Williams,10939275,School of Science & Technology,2022,2023,Male,Computer Science,Self-sponsored,South African,56,Masters,36,15
+Sarah Jones,71904536,School of Pharmacy & Health Sciences,2024,2026,Female,Pharmacology,Sponsored,Tanzanian,55,Masters,38,14
+Mary Brown,52734594,Chandaria School of Business,2022,2023,Male,Marketing,Self-sponsored,Chinese,38,Masters,49,15
+Sarah Jones,79239979,"School of Communication, Cinematic & Creative Arts",2025,2027,Male,Graphic Design,Self-sponsored,Brazilian,35,Masters,49,13
+Sarah Miller,86147257,Chandaria School of Business,2024,2027,Male,Human Resource Management,Self-sponsored,Ugandan,83,PhD,33,15
+Emily Williams,82611715,"School of Communication, Cinematic & Creative Arts",2023,2027,Female,Film Production,Sponsored,Chinese,66,PhD,13,16
+Emily Miller,10188409,School of Pharmacy & Health Sciences,2024,2028,Other,Nursing,Sponsored,South African,153,Undergraduate,41,41
+Emily Doe,72407241,School of Humanities & Social Sciences,2024,2028,Male,International Relations,Self-sponsored,Nigerian,156,Undergraduate,28,43
+David Miller,64802842,Chandaria School of Business,2023,2024,Other,Finance,Sponsored,Mexican,39,Masters,47,16
+Peter Jones,17074494,School of Pharmacy & Health Sciences,2022,2026,Male,Pharmacology,Self-sponsored,Indian,158,Undergraduate,14,40
+Mary Williams,82716954,Chandaria School of Business,2024,2026,Female,Finance,Self-sponsored,Chinese,54,Masters,27,14
+Emily Wilson,18460253,School of Humanities & Social Sciences,2025,2030,Female,Sociology,Self-sponsored,South African,86,PhD,46,12
+Sarah Jones,43095482,"School of Communication, Cinematic & Creative Arts",2022,2024,Male,Journalism,Self-sponsored,German,41,Masters,13,13
+Jane Davis,93466204,School of Humanities & Social Sciences,2022,2024,Male,Psychology,Sponsored,Rwandan,37,Masters,10,14
+Michael Jones,83129810,School of Pharmacy & Health Sciences,2023,2028,Female,Pharmacology,Self-sponsored,Indian,70,PhD,11,13
+Sarah Doe,30276081,"School of Graduate Studies, Research & Extension",2023,2027,Male,Advanced Statistics,Sponsored,Australian,133,Undergraduate,18,41
+Mary Williams,93986966,Chandaria School of Business,2022,2025,Female,Human Resource Management,Self-sponsored,American,147,Undergraduate,18,44
+David Miller,27085182,School of Humanities & Social Sciences,2025,2026,Female,Sociology,Self-sponsored,Canadian,51,Masters,22,13
+Peter Davis,19399962,"School of Communication, Cinematic & Creative Arts",2024,2028,Male,Film Production,Self-sponsored,Canadian,159,Undergraduate,17,40
+Michael Wilson,40118123,School of Science & Technology,2025,2026,Other,Mathematics,Self-sponsored,Rwandan,46,Masters,34,13
+Mary Davis,49829875,School of Pharmacy & Health Sciences,2025,2028,Male,Pharmacology,Self-sponsored,Australian,62,PhD,12,15
+Mary Jones,23678001,"School of Communication, Cinematic & Creative Arts",2022,2026,Male,Journalism,Self-sponsored,Chinese,84,PhD,42,13
+Peter Jones,87253291,"School of Communication, Cinematic & Creative Arts",2025,2028,Other,Journalism,Self-sponsored,South African,78,PhD,34,14
+Michael Doe,55156657,Chandaria School of Business,2025,2026,Female,Finance,Self-sponsored,French,56,Masters,50,13
+Sarah Jones,15553672,School of Pharmacy & Health Sciences,2024,2026,Male,Public Health,Self-sponsored,Brazilian,41,Masters,41,16
+Emily Williams,53870851,"School of Graduate Studies, Research & Extension",2022,2023,Other,Research Methodology,Self-sponsored,Chinese,55,Masters,23,16
+Emily Smith,77684798,School of Pharmacy & Health Sciences,2022,2027,Male,Public Health,Self-sponsored,Brazilian,67,PhD,37,15
+Michael Miller,17098781,School of Pharmacy & Health Sciences,2023,2024,Male,Nursing,Sponsored,Brazilian,42,Masters,38,15
+Mary Jones,33936795,School of Science & Technology,2024,2026,Female,Mathematics,Self-sponsored,South African,31,Masters,23,12
+Jane Davis,51726187,"School of Communication, Cinematic & Creative Arts",2025,2030,Other,Film Production,Sponsored,British,73,PhD,40,15
+Peter Miller,91471065,Chandaria School of Business,2022,2025,Female,Marketing,Sponsored,American,54,PhD,16,12
+John Jones,91102942,School of Science & Technology,2023,2024,Female,Biotechnology,Self-sponsored,Indian,48,Masters,10,14
+John Brown,16460132,School of Humanities & Social Sciences,2024,2025,Male,Psychology,Sponsored,South African,33,Masters,30,12
+Emily Miller,73995173,School of Science & Technology,2023,2025,Male,Mathematics,Sponsored,American,49,Masters,44,13
+Jane Williams,77387910,"School of Graduate Studies, Research & Extension",2022,2026,Other,Advanced Statistics,Self-sponsored,Rwandan,45,PhD,15,12
+David Jones,76227635,"School of Graduate Studies, Research & Extension",2024,2028,Male,Advanced Statistics,Self-sponsored,Canadian,143,Undergraduate,26,44
+John Miller,42796000,School of Pharmacy & Health Sciences,2023,2028,Other,Pharmacology,Self-sponsored,Tanzanian,47,PhD,38,12
+Emily Brown,20707300,School of Pharmacy & Health Sciences,2022,2023,Other,Pharmacology,Sponsored,Mexican,33,Masters,41,13
+Emily Jones,68475135,School of Humanities & Social Sciences,2025,2029,Other,International Relations,Sponsored,Mexican,46,PhD,37,15
+Jane Jones,61017094,School of Science & Technology,2025,2026,Male,Mathematics,Sponsored,French,59,Masters,31,14
+Michael Miller,79064981,"School of Communication, Cinematic & Creative Arts",2023,2026,Female,Film Production,Sponsored,American,46,PhD,34,13
+Jane Brown,46278287,Chandaria School of Business,2024,2025,Other,Finance,Sponsored,Australian,37,Masters,38,12
+Jane Wilson,95582108,"School of Graduate Studies, Research & Extension",2023,2027,Other,Advanced Statistics,Sponsored,Chinese,146,Undergraduate,30,40
+Mary Jones,64764521,Chandaria School of Business,2024,2027,Other,Human Resource Management,Self-sponsored,Nigerian,48,PhD,39,16
+David Smith,72215656,School of Humanities & Social Sciences,2023,2027,Other,Sociology,Self-sponsored,Chinese,73,PhD,46,16
+Mary Williams,27819088,School of Humanities & Social Sciences,2025,2027,Male,Sociology,Sponsored,German,52,Masters,13,16
+John Doe,88736675,"School of Graduate Studies, Research & Extension",2022,2025,Male,Thesis Writing,Sponsored,Australian,160,Undergraduate,29,40
+Peter Williams,94314467,School of Science & Technology,2025,2029,Other,Biotechnology,Sponsored,American,147,Undergraduate,38,41
+Mary Wilson,93636866,School of Humanities & Social Sciences,2025,2029,Male,International Relations,Sponsored,German,122,Undergraduate,21,41
+David Smith,24565592,School of Pharmacy & Health Sciences,2023,2027,Female,Pharmacology,Sponsored,British,154,Undergraduate,47,44
+John Williams,80126588,Chandaria School of Business,2025,2027,Other,Finance,Self-sponsored,American,52,Masters,25,15
+John Brown,98952765,School of Humanities & Social Sciences,2023,2027,Other,Psychology,Sponsored,Mexican,156,Undergraduate,36,44
+Emily Brown,56395840,Chandaria School of Business,2023,2027,Female,Human Resource Management,Sponsored,British,156,Undergraduate,31,41
+Sarah Davis,24564816,Chandaria School of Business,2022,2026,Female,Human Resource Management,Self-sponsored,American,148,Undergraduate,46,41
+Peter Brown,85607366,School of Pharmacy & Health Sciences,2024,2027,Female,Public Health,Sponsored,Brazilian,55,PhD,33,13
+Michael Brown,32775842,"School of Graduate Studies, Research & Extension",2023,2027,Female,Research Methodology,Sponsored,Nigerian,136,Undergraduate,15,43
+Jane Williams,57770155,Chandaria School of Business,2025,2028,Female,Marketing,Sponsored,Kenyan,158,Undergraduate,38,43
+Peter Brown,10579584,"School of Graduate Studies, Research & Extension",2022,2024,Male,Research Methodology,Sponsored,German,46,Masters,45,12
+Sarah Williams,30985110,School of Humanities & Social Sciences,2023,2027,Female,International Relations,Self-sponsored,Tanzanian,135,Undergraduate,18,44
+Sarah Brown,94059037,School of Humanities & Social Sciences,2024,2027,Other,International Relations,Self-sponsored,French,120,Undergraduate,20,41
+Sarah Davis,80583086,School of Pharmacy & Health Sciences,2023,2024,Other,Pharmacology,Sponsored,Kenyan,40,Masters,49,15
+Peter Brown,63665657,School of Humanities & Social Sciences,2022,2026,Female,International Relations,Self-sponsored,Nigerian,80,PhD,25,14
+Mary Miller,42371394,School of Pharmacy & Health Sciences,2023,2027,Male,Public Health,Sponsored,South African,130,Undergraduate,31,44
+Peter Jones,35071034,School of Humanities & Social Sciences,2022,2023,Male,Psychology,Sponsored,British,34,Masters,49,12
+David Smith,60694724,School of Pharmacy & Health Sciences,2022,2025,Male,Nursing,Sponsored,Indian,141,Undergraduate,35,44
+Jane Brown,35862008,School of Science & Technology,2025,2026,Male,Biotechnology,Self-sponsored,Rwandan,37,Masters,34,14
+John Miller,68187604,School of Humanities & Social Sciences,2023,2027,Female,Psychology,Self-sponsored,Canadian,160,Undergraduate,36,44
+Peter Miller,12167061,School of Pharmacy & Health Sciences,2023,2027,Female,Nursing,Sponsored,Kenyan,140,Undergraduate,47,44
+Jane Wilson,61121265,Chandaria School of Business,2025,2030,Male,Marketing,Sponsored,British,88,PhD,38,14
+John Williams,68625774,School of Humanities & Social Sciences,2022,2026,Male,Psychology,Sponsored,French,61,PhD,15,12
+David Miller,13932614,School of Humanities & Social Sciences,2025,2027,Male,International Relations,Sponsored,Kenyan,46,Masters,20,15
+John Jones,47377099,Chandaria School of Business,2024,2027,Male,Finance,Self-sponsored,French,85,PhD,13,16
+Peter Smith,53973859,School of Pharmacy & Health Sciences,2023,2027,Female,Nursing,Sponsored,Canadian,145,Undergraduate,33,41
+Jane Jones,68905482,"School of Graduate Studies, Research & Extension",2025,2026,Female,Advanced Statistics,Self-sponsored,Chinese,37,Masters,47,13
+Jane Jones,11128893,"School of Communication, Cinematic & Creative Arts",2024,2028,Female,Film Production,Self-sponsored,Mexican,123,Undergraduate,50,40
+Jane Davis,25846578,School of Science & Technology,2023,2024,Other,Biotechnology,Self-sponsored,French,35,Masters,23,16
+John Wilson,90785724,School of Science & Technology,2024,2027,Female,Computer Science,Sponsored,Ugandan,84,PhD,43,14
+Mary Jones,72693143,School of Humanities & Social Sciences,2025,2028,Other,Sociology,Sponsored,Indian,142,Undergraduate,40,43
+Jane Doe,93539823,"School of Communication, Cinematic & Creative Arts",2022,2023,Other,Graphic Design,Self-sponsored,German,45,Masters,47,12
+John Smith,92199734,"School of Communication, Cinematic & Creative Arts",2022,2023,Female,Film Production,Self-sponsored,Brazilian,42,Masters,26,16
+Jane Brown,23211309,"School of Communication, Cinematic & Creative Arts",2024,2025,Male,Graphic Design,Self-sponsored,British,40,Masters,46,12
+Peter Jones,75009248,School of Science & Technology,2024,2027,Male,Biotechnology,Self-sponsored,Tanzanian,84,PhD,37,14
+Peter Smith,40362192,School of Humanities & Social Sciences,2025,2028,Female,International Relations,Self-sponsored,Canadian,129,Undergraduate,29,42
+Michael Doe,59744557,School of Humanities & Social Sciences,2025,2027,Other,Sociology,Sponsored,Ugandan,35,Masters,29,14
+Sarah Smith,12225149,"School of Communication, Cinematic & Creative Arts",2024,2027,Other,Film Production,Self-sponsored,Kenyan,49,PhD,42,16
+Emily Smith,31511864,School of Science & Technology,2025,2026,Other,Computer Science,Sponsored,Ugandan,57,Masters,46,12
+John Jones,98918381,"School of Communication, Cinematic & Creative Arts",2023,2026,Male,Journalism,Self-sponsored,Chinese,133,Undergraduate,19,43
+Peter Brown,73970215,School of Pharmacy & Health Sciences,2023,2026,Other,Public Health,Self-sponsored,South African,85,PhD,36,14
+Michael Jones,43417957,School of Humanities & Social Sciences,2022,2026,Male,Sociology,Self-sponsored,German,57,PhD,23,12
+Michael Miller,18582215,School of Pharmacy & Health Sciences,2024,2029,Other,Public Health,Sponsored,Ugandan,54,PhD,40,13
+Sarah Davis,84994652,School of Humanities & Social Sciences,2025,2029,Female,Sociology,Self-sponsored,Rwandan,154,Undergraduate,44,41
+Jane Miller,23598027,"School of Communication, Cinematic & Creative Arts",2024,2025,Female,Journalism,Self-sponsored,Mexican,44,Masters,25,13
+Michael Doe,25017083,"School of Graduate Studies, Research & Extension",2025,2029,Other,Research Methodology,Sponsored,Ugandan,147,Undergraduate,39,42
+Sarah Brown,64675805,Chandaria School of Business,2023,2025,Female,Human Resource Management,Self-sponsored,British,30,Masters,12,13
+Sarah Brown,51259110,"School of Communication, Cinematic & Creative Arts",2023,2026,Male,Film Production,Sponsored,Rwandan,71,PhD,29,12
+Sarah Williams,51553291,Chandaria School of Business,2022,2025,Other,Finance,Sponsored,Mexican,88,PhD,49,12
+Peter Jones,79506595,"School of Communication, Cinematic & Creative Arts",2024,2027,Other,Graphic Design,Sponsored,Brazilian,128,Undergraduate,19,40
+Jane Doe,87087439,School of Science & Technology,2024,2027,Other,Computer Science,Sponsored,Chinese,55,PhD,16,14
+Jane Jones,25168451,"School of Communication, Cinematic & Creative Arts",2025,2030,Male,Journalism,Self-sponsored,Nigerian,45,PhD,17,15
+Sarah Williams,26673098,"School of Communication, Cinematic & Creative Arts",2023,2025,Other,Film Production,Sponsored,British,60,Masters,21,13
+Mary Brown,14971743,School of Humanities & Social Sciences,2024,2027,Other,International Relations,Sponsored,Chinese,63,PhD,20,14
+Emily Jones,29262701,School of Humanities & Social Sciences,2022,2023,Female,International Relations,Sponsored,Ugandan,37,Masters,37,16
+Mary Williams,31359144,"School of Communication, Cinematic & Creative Arts",2023,2025,Female,Graphic Design,Self-sponsored,American,57,Masters,34,15
+Mary Williams,23427153,School of Science & Technology,2023,2027,Female,Mathematics,Self-sponsored,Mexican,56,PhD,35,13
+Peter Jones,54461669,School of Pharmacy & Health Sciences,2024,2027,Female,Nursing,Self-sponsored,Mexican,58,PhD,40,16
+Michael Davis,68509481,Chandaria School of Business,2024,2027,Other,Human Resource Management,Self-sponsored,French,125,Undergraduate,33,42
+John Williams,21809005,"School of Graduate Studies, Research & Extension",2022,2026,Male,Thesis Writing,Sponsored,British,131,Undergraduate,34,44
+Emily Jones,93972334,School of Humanities & Social Sciences,2023,2028,Other,Sociology,Sponsored,American,78,PhD,29,12
+Michael Davis,54071906,"School of Communication, Cinematic & Creative Arts",2024,2029,Male,Journalism,Self-sponsored,Indian,56,PhD,15,12
+Mary Doe,32736823,School of Science & Technology,2024,2029,Other,Biotechnology,Sponsored,Ugandan,88,PhD,34,12
+Mary Wilson,61224281,"School of Communication, Cinematic & Creative Arts",2023,2026,Female,Graphic Design,Self-sponsored,Tanzanian,130,Undergraduate,48,43
+Emily Miller,47214385,School of Humanities & Social Sciences,2023,2027,Other,International Relations,Self-sponsored,Ugandan,149,Undergraduate,15,44
+David Jones,44506948,Chandaria School of Business,2025,2026,Other,Human Resource Management,Sponsored,Tanzanian,42,Masters,24,13
+John Jones,83548450,Chandaria School of Business,2024,2027,Other,Finance,Self-sponsored,Ugandan,80,PhD,22,16
+David Davis,96907880,Chandaria School of Business,2023,2024,Male,Human Resource Management,Sponsored,Tanzanian,60,Masters,33,14
+David Brown,26314361,School of Science & Technology,2022,2023,Other,Mathematics,Self-sponsored,Rwandan,51,Masters,34,12
+Jane Williams,85557764,School of Humanities & Social Sciences,2023,2027,Other,Sociology,Sponsored,Rwandan,129,Undergraduate,16,43
+Emily Jones,24558781,"School of Communication, Cinematic & Creative Arts",2024,2029,Other,Journalism,Sponsored,Indian,84,PhD,28,14
+Michael Doe,12157713,"School of Graduate Studies, Research & Extension",2023,2025,Female,Research Methodology,Sponsored,Canadian,54,Masters,26,16
+Peter Smith,91693288,Chandaria School of Business,2025,2026,Male,Marketing,Sponsored,British,45,Masters,18,16
+David Doe,36656983,"School of Communication, Cinematic & Creative Arts",2023,2027,Other,Film Production,Self-sponsored,Kenyan,124,Undergraduate,30,40
+Mary Miller,60964922,School of Humanities & Social Sciences,2022,2027,Male,Psychology,Self-sponsored,Tanzanian,52,PhD,37,14
+John Doe,49563587,Chandaria School of Business,2024,2027,Male,Human Resource Management,Sponsored,German,127,Undergraduate,16,42
+Sarah Miller,67543253,Chandaria School of Business,2023,2026,Other,Marketing,Sponsored,South African,156,Undergraduate,44,43
+Michael Miller,65893238,School of Pharmacy & Health Sciences,2022,2026,Male,Public Health,Self-sponsored,German,154,Undergraduate,33,40
+John Williams,83495900,School of Pharmacy & Health Sciences,2025,2028,Other,Nursing,Sponsored,French,70,PhD,48,14
+Emily Davis,32070013,School of Science & Technology,2023,2027,Other,Computer Science,Sponsored,Mexican,136,Undergraduate,19,40
+Sarah Miller,57198821,School of Science & Technology,2025,2029,Other,Biotechnology,Self-sponsored,British,159,Undergraduate,16,41
+Emily Smith,90671868,Chandaria School of Business,2023,2025,Male,Finance,Self-sponsored,Nigerian,52,Masters,21,15
+Emily Davis,39108468,School of Science & Technology,2025,2027,Female,Mathematics,Self-sponsored,British,50,Masters,35,15
+Jane Doe,51207845,School of Science & Technology,2024,2026,Other,Computer Science,Self-sponsored,German,58,Masters,27,13
+Michael Miller,33324321,School of Science & Technology,2023,2026,Female,Computer Science,Sponsored,Mexican,67,PhD,43,13
+Peter Wilson,81394178,Chandaria School of Business,2022,2023,Male,Human Resource Management,Self-sponsored,South African,56,Masters,47,12
+Michael Brown,69211285,"School of Communication, Cinematic & Creative Arts",2022,2026,Female,Journalism,Sponsored,German,50,PhD,20,16
+Michael Wilson,32369520,"School of Communication, Cinematic & Creative Arts",2023,2027,Male,Graphic Design,Sponsored,Australian,158,Undergraduate,10,40
+Sarah Miller,80704877,School of Humanities & Social Sciences,2022,2023,Female,International Relations,Self-sponsored,Rwandan,53,Masters,30,13
+Jane Brown,83280212,School of Pharmacy & Health Sciences,2023,2027,Other,Nursing,Self-sponsored,South African,130,Undergraduate,16,41
+John Davis,53224150,School of Humanities & Social Sciences,2025,2027,Female,Psychology,Sponsored,South African,42,Masters,11,15
+Mary Davis,83707431,"School of Graduate Studies, Research & Extension",2023,2025,Female,Research Methodology,Self-sponsored,Ugandan,60,Masters,48,14
+John Miller,56906111,School of Humanities & Social Sciences,2023,2025,Male,Psychology,Self-sponsored,French,35,Masters,22,15
+Sarah Williams,90487684,"School of Communication, Cinematic & Creative Arts",2025,2028,Other,Journalism,Self-sponsored,South African,121,Undergraduate,30,43
+Peter Smith,31633476,School of Science & Technology,2022,2025,Other,Computer Science,Sponsored,Australian,159,Undergraduate,26,42
+Mary Miller,41137053,School of Humanities & Social Sciences,2025,2028,Female,Psychology,Self-sponsored,Tanzanian,142,Undergraduate,30,41
+David Davis,30441916,Chandaria School of Business,2024,2025,Other,Marketing,Sponsored,South African,49,Masters,32,14
+Michael Brown,58907282,School of Humanities & Social Sciences,2025,2028,Other,Sociology,Sponsored,Australian,123,Undergraduate,44,42
+Mary Williams,24127980,School of Pharmacy & Health Sciences,2024,2028,Other,Public Health,Self-sponsored,British,86,PhD,22,16
+Jane Doe,24252786,School of Pharmacy & Health Sciences,2025,2029,Female,Pharmacology,Sponsored,Canadian,120,Undergraduate,48,43
+Sarah Williams,79723420,"School of Communication, Cinematic & Creative Arts",2022,2026,Male,Graphic Design,Self-sponsored,Tanzanian,59,PhD,11,15
+Emily Miller,80462175,School of Science & Technology,2025,2028,Other,Mathematics,Self-sponsored,Nigerian,45,PhD,15,15
+Emily Smith,10216924,Chandaria School of Business,2023,2025,Other,Human Resource Management,Sponsored,Nigerian,33,Masters,45,12
+Mary Jones,22120009,School of Science & Technology,2023,2025,Male,Computer Science,Self-sponsored,Australian,41,Masters,14,12
+Mary Wilson,92481329,School of Science & Technology,2024,2028,Female,Biotechnology,Sponsored,Kenyan,124,Undergraduate,13,44
+Mary Wilson,73997380,School of Science & Technology,2025,2028,Other,Mathematics,Self-sponsored,Canadian,78,PhD,33,15
+John Jones,80807713,School of Science & Technology,2022,2025,Other,Mathematics,Sponsored,South African,149,Undergraduate,39,43
+Mary Davis,83193570,School of Science & Technology,2022,2026,Other,Mathematics,Sponsored,Indian,142,Undergraduate,18,40
+Peter Jones,85076604,"School of Communication, Cinematic & Creative Arts",2024,2025,Female,Journalism,Self-sponsored,Tanzanian,40,Masters,46,16
+Jane Wilson,45318664,School of Humanities & Social Sciences,2022,2023,Female,Psychology,Sponsored,American,51,Masters,16,15
+John Wilson,37496109,School of Science & Technology,2025,2030,Other,Biotechnology,Sponsored,Australian,80,PhD,17,15
+Michael Williams,39292580,School of Humanities & Social Sciences,2023,2028,Other,Psychology,Sponsored,Brazilian,86,PhD,18,12
+Mary Jones,46785289,"School of Communication, Cinematic & Creative Arts",2024,2027,Male,Film Production,Sponsored,Australian,138,Undergraduate,36,40
+Peter Smith,24802535,School of Pharmacy & Health Sciences,2023,2026,Other,Nursing,Sponsored,Tanzanian,138,Undergraduate,13,44
+John Smith,33172099,School of Pharmacy & Health Sciences,2023,2027,Male,Public Health,Self-sponsored,American,60,PhD,25,15
+Sarah Doe,92711477,"School of Graduate Studies, Research & Extension",2024,2025,Female,Advanced Statistics,Sponsored,British,53,Masters,17,16
+Michael Jones,18941158,"School of Graduate Studies, Research & Extension",2024,2025,Other,Research Methodology,Self-sponsored,Australian,57,Masters,10,12
+Jane Williams,30516442,Chandaria School of Business,2025,2028,Male,Finance,Self-sponsored,Mexican,121,Undergraduate,23,40
+Mary Williams,45966296,School of Humanities & Social Sciences,2022,2026,Female,Sociology,Self-sponsored,Brazilian,67,PhD,33,14
+Jane Smith,89790262,School of Pharmacy & Health Sciences,2022,2027,Other,Pharmacology,Self-sponsored,Kenyan,82,PhD,37,13
+Sarah Davis,35540349,School of Pharmacy & Health Sciences,2025,2027,Other,Nursing,Sponsored,German,41,Masters,33,14
+Mary Williams,58742914,School of Science & Technology,2025,2028,Male,Biotechnology,Sponsored,Australian,144,Undergraduate,26,44
+Sarah Williams,39387885,"School of Communication, Cinematic & Creative Arts",2025,2029,Female,Graphic Design,Self-sponsored,Canadian,149,Undergraduate,20,41
+Jane Wilson,78448921,School of Humanities & Social Sciences,2022,2026,Male,Sociology,Self-sponsored,South African,59,PhD,24,13
+John Brown,11572461,School of Pharmacy & Health Sciences,2022,2023,Other,Public Health,Sponsored,Chinese,37,Masters,12,13
+Michael Miller,18340365,School of Pharmacy & Health Sciences,2025,2026,Other,Pharmacology,Self-sponsored,Rwandan,34,Masters,14,15
+Peter Wilson,96756587,Chandaria School of Business,2023,2027,Male,Human Resource Management,Sponsored,German,134,Undergraduate,17,42
+Mary Wilson,77313901,School of Pharmacy & Health Sciences,2024,2025,Other,Public Health,Self-sponsored,American,58,Masters,47,12
+Jane Miller,40514538,Chandaria School of Business,2024,2026,Male,Finance,Sponsored,Kenyan,36,Masters,21,16
+Emily Williams,55988080,Chandaria School of Business,2022,2023,Male,Finance,Self-sponsored,Brazilian,42,Masters,44,13
+Jane Doe,24558336,Chandaria School of Business,2025,2029,Other,Finance,Sponsored,Indian,46,PhD,11,13
+Michael Williams,37335602,School of Science & Technology,2024,2027,Male,Computer Science,Sponsored,Brazilian,76,PhD,32,16
+Mary Miller,79214646,School of Pharmacy & Health Sciences,2022,2025,Other,Pharmacology,Sponsored,Mexican,52,PhD,23,16
+Peter Jones,15141374,School of Science & Technology,2024,2026,Other,Mathematics,Sponsored,South African,31,Masters,15,14
+Jane Brown,51654303,School of Science & Technology,2025,2028,Other,Mathematics,Self-sponsored,Tanzanian,152,Undergraduate,26,44
+Emily Wilson,35526726,"School of Graduate Studies, Research & Extension",2024,2027,Male,Thesis Writing,Self-sponsored,Nigerian,127,Undergraduate,30,43
+Michael Jones,86631148,"School of Communication, Cinematic & Creative Arts",2023,2026,Other,Journalism,Sponsored,American,48,PhD,34,12
+Sarah Davis,31530065,School of Science & Technology,2023,2024,Female,Mathematics,Sponsored,Mexican,49,Masters,21,13
+Mary Wilson,91455088,"School of Graduate Studies, Research & Extension",2023,2024,Male,Research Methodology,Self-sponsored,Tanzanian,57,Masters,46,14
+Michael Smith,59254113,Chandaria School of Business,2023,2024,Female,Human Resource Management,Self-sponsored,Nigerian,60,Masters,42,16
+Mary Davis,19829905,"School of Graduate Studies, Research & Extension",2025,2029,Other,Advanced Statistics,Sponsored,Mexican,123,Undergraduate,43,42
+David Davis,16468590,Chandaria School of Business,2023,2027,Female,Finance,Self-sponsored,Ugandan,157,Undergraduate,35,41
+Jane Jones,11030788,Chandaria School of Business,2024,2025,Other,Marketing,Self-sponsored,Rwandan,43,Masters,36,12
+Emily Smith,95268901,"School of Communication, Cinematic & Creative Arts",2023,2027,Female,Film Production,Sponsored,Nigerian,120,Undergraduate,39,41
+Michael Williams,82616909,Chandaria School of Business,2025,2028,Other,Finance,Self-sponsored,Rwandan,70,PhD,28,12
+David Williams,50051606,"School of Graduate Studies, Research & Extension",2025,2027,Other,Advanced Statistics,Sponsored,Tanzanian,33,Masters,12,15
+David Williams,88358541,School of Science & Technology,2023,2025,Female,Biotechnology,Self-sponsored,American,52,Masters,43,15
+John Jones,99638974,Chandaria School of Business,2024,2027,Female,Human Resource Management,Self-sponsored,Tanzanian,49,PhD,17,13
+Sarah Smith,84642511,"School of Communication, Cinematic & Creative Arts",2022,2023,Other,Graphic Design,Sponsored,Mexican,47,Masters,45,13
+Jane Smith,57523468,School of Science & Technology,2024,2025,Other,Mathematics,Sponsored,Canadian,60,Masters,17,13
+Jane Williams,50011038,"School of Communication, Cinematic & Creative Arts",2022,2023,Female,Journalism,Self-sponsored,American,33,Masters,11,15
+David Doe,23373587,"School of Communication, Cinematic & Creative Arts",2024,2029,Female,Film Production,Sponsored,Rwandan,64,PhD,46,13
+Jane Doe,78056058,School of Science & Technology,2022,2024,Female,Biotechnology,Self-sponsored,Nigerian,50,Masters,28,13
+David Miller,34467239,"School of Communication, Cinematic & Creative Arts",2024,2025,Male,Journalism,Self-sponsored,Canadian,36,Masters,45,13
+Sarah Wilson,67730800,Chandaria School of Business,2022,2025,Female,Human Resource Management,Self-sponsored,Tanzanian,77,PhD,11,16
+Peter Wilson,76693706,School of Pharmacy & Health Sciences,2022,2023,Other,Pharmacology,Sponsored,Australian,43,Masters,40,15
+Sarah Wilson,43272588,"School of Communication, Cinematic & Creative Arts",2024,2027,Female,Graphic Design,Self-sponsored,American,154,Undergraduate,23,44
+Peter Doe,19295721,School of Humanities & Social Sciences,2022,2027,Male,Sociology,Self-sponsored,South African,50,PhD,15,14
+David Wilson,27561260,"School of Graduate Studies, Research & Extension",2023,2028,Female,Thesis Writing,Sponsored,Rwandan,86,PhD,30,15
+David Wilson,97793379,"School of Graduate Studies, Research & Extension",2023,2027,Male,Research Methodology,Sponsored,Ugandan,61,PhD,22,12
+Sarah Miller,94740517,"School of Communication, Cinematic & Creative Arts",2023,2025,Male,Film Production,Sponsored,Brazilian,48,Masters,34,16
+Peter Jones,85054060,"School of Communication, Cinematic & Creative Arts",2023,2026,Female,Journalism,Sponsored,Nigerian,83,PhD,18,12
+Mary Miller,75225181,"School of Graduate Studies, Research & Extension",2025,2028,Other,Research Methodology,Sponsored,Rwandan,47,PhD,18,16
+Mary Wilson,59674404,School of Science & Technology,2024,2025,Other,Computer Science,Self-sponsored,Mexican,51,Masters,34,14
+Jane Wilson,95539264,"School of Communication, Cinematic & Creative Arts",2022,2024,Male,Graphic Design,Self-sponsored,Australian,53,Masters,46,14
+Peter Miller,42611320,School of Pharmacy & Health Sciences,2025,2028,Other,Public Health,Self-sponsored,Nigerian,54,PhD,23,16
+Mary Smith,79443601,"School of Communication, Cinematic & Creative Arts",2023,2026,Male,Journalism,Self-sponsored,German,68,PhD,37,14
+Peter Smith,59993331,"School of Communication, Cinematic & Creative Arts",2024,2027,Male,Journalism,Sponsored,Canadian,145,Undergraduate,18,44
+David Davis,15396664,School of Pharmacy & Health Sciences,2024,2026,Male,Pharmacology,Self-sponsored,Kenyan,48,Masters,50,15
+Sarah Smith,85242536,Chandaria School of Business,2025,2026,Other,Finance,Self-sponsored,Mexican,39,Masters,28,12
+Michael Doe,73600247,"School of Communication, Cinematic & Creative Arts",2023,2024,Other,Journalism,Sponsored,Ugandan,41,Masters,50,16
+Sarah Jones,96416154,School of Humanities & Social Sciences,2024,2028,Other,International Relations,Sponsored,Tanzanian,71,PhD,19,15
+John Brown,36377171,School of Humanities & Social Sciences,2025,2028,Female,International Relations,Self-sponsored,Indian,155,Undergraduate,37,44
+John Davis,74390751,School of Humanities & Social Sciences,2022,2027,Male,Psychology,Sponsored,South African,58,PhD,34,13
+David Jones,59513186,Chandaria School of Business,2024,2028,Other,Marketing,Self-sponsored,Kenyan,78,PhD,26,16
+Mary Davis,86859995,School of Science & Technology,2024,2027,Male,Mathematics,Sponsored,Indian,147,Undergraduate,48,41
+John Brown,11855530,School of Science & Technology,2024,2028,Other,Mathematics,Self-sponsored,Tanzanian,123,Undergraduate,13,41
+John Smith,30396599,School of Humanities & Social Sciences,2024,2025,Female,Psychology,Sponsored,British,35,Masters,16,16
+Peter Brown,17059045,School of Humanities & Social Sciences,2023,2026,Other,Sociology,Sponsored,American,159,Undergraduate,10,40
+John Miller,14271198,School of Science & Technology,2024,2027,Other,Mathematics,Self-sponsored,German,73,PhD,36,16
+Michael Williams,82465290,"School of Graduate Studies, Research & Extension",2023,2024,Female,Research Methodology,Sponsored,Ugandan,50,Masters,24,14
+Sarah Miller,36179221,Chandaria School of Business,2025,2027,Male,Finance,Sponsored,Indian,57,Masters,49,12
+Jane Miller,37686174,"School of Graduate Studies, Research & Extension",2024,2028,Female,Research Methodology,Sponsored,British,88,PhD,26,12
+John Wilson,40413867,School of Humanities & Social Sciences,2023,2026,Male,Sociology,Self-sponsored,Nigerian,126,Undergraduate,17,40
+Mary Wilson,76699319,School of Humanities & Social Sciences,2022,2027,Male,International Relations,Self-sponsored,Mexican,74,PhD,49,14
+Emily Davis,11458363,Chandaria School of Business,2023,2026,Male,Human Resource Management,Sponsored,Indian,69,PhD,15,15
+Emily Doe,38609331,School of Pharmacy & Health Sciences,2024,2028,Male,Public Health,Sponsored,Brazilian,159,Undergraduate,48,40
+Mary Jones,20410821,School of Science & Technology,2023,2027,Female,Computer Science,Sponsored,Australian,55,PhD,48,12
+Sarah Williams,53663241,Chandaria School of Business,2022,2026,Other,Finance,Self-sponsored,British,71,PhD,13,16
+Emily Miller,85971072,"School of Communication, Cinematic & Creative Arts",2023,2026,Other,Film Production,Sponsored,Indian,132,Undergraduate,24,41
+Jane Williams,44641563,"School of Communication, Cinematic & Creative Arts",2023,2027,Male,Film Production,Sponsored,Nigerian,136,Undergraduate,19,41
+Michael Jones,13538572,"School of Graduate Studies, Research & Extension",2024,2027,Other,Research Methodology,Sponsored,French,62,PhD,29,13
+Sarah Brown,32093408,Chandaria School of Business,2025,2030,Other,Finance,Sponsored,French,45,PhD,43,14
+Sarah Miller,28261288,Chandaria School of Business,2023,2024,Male,Marketing,Self-sponsored,Ugandan,33,Masters,35,13
+Michael Miller,64446444,School of Science & Technology,2023,2024,Male,Computer Science,Sponsored,British,59,Masters,41,16
+John Miller,65725497,School of Science & Technology,2022,2026,Female,Biotechnology,Self-sponsored,Indian,61,PhD,32,16
+Jane Jones,67685558,School of Pharmacy & Health Sciences,2025,2028,Female,Pharmacology,Self-sponsored,Brazilian,143,Undergraduate,18,42
+Mary Williams,44841440,Chandaria School of Business,2024,2028,Other,Finance,Self-sponsored,Ugandan,148,Undergraduate,33,44
+Peter Williams,67505997,"School of Graduate Studies, Research & Extension",2025,2027,Female,Research Methodology,Sponsored,Kenyan,50,Masters,27,16
+Jane Miller,64263005,"School of Communication, Cinematic & Creative Arts",2022,2023,Male,Journalism,Sponsored,Chinese,42,Masters,41,14
+Jane Jones,43793209,School of Science & Technology,2022,2027,Other,Biotechnology,Sponsored,Ugandan,71,PhD,48,13
+Peter Smith,72269633,"School of Graduate Studies, Research & Extension",2025,2029,Female,Thesis Writing,Self-sponsored,Mexican,67,PhD,22,14
+Michael Brown,69396261,Chandaria School of Business,2025,2027,Male,Marketing,Sponsored,Tanzanian,37,Masters,50,15
+Jane Doe,75016128,"School of Communication, Cinematic & Creative Arts",2022,2025,Female,Journalism,Sponsored,Australian,71,PhD,40,15
+Emily Williams,35199846,School of Humanities & Social Sciences,2023,2026,Male,International Relations,Self-sponsored,British,134,Undergraduate,33,44
+Sarah Wilson,25432624,"School of Communication, Cinematic & Creative Arts",2022,2023,Female,Film Production,Self-sponsored,Rwandan,54,Masters,39,15
+David Brown,94126130,Chandaria School of Business,2024,2025,Female,Human Resource Management,Sponsored,Chinese,49,Masters,45,16
+Mary Miller,36095209,School of Pharmacy & Health Sciences,2022,2025,Female,Public Health,Self-sponsored,Brazilian,132,Undergraduate,42,43
+John Williams,57428517,"School of Communication, Cinematic & Creative Arts",2024,2028,Female,Journalism,Self-sponsored,Australian,123,Undergraduate,36,44
+David Brown,77962839,School of Humanities & Social Sciences,2023,2028,Male,International Relations,Self-sponsored,Rwandan,90,PhD,26,16
+John Wilson,41220953,School of Pharmacy & Health Sciences,2022,2025,Other,Public Health,Sponsored,Ugandan,86,PhD,45,15
+Emily Jones,39392697,Chandaria School of Business,2024,2027,Other,Marketing,Sponsored,German,53,PhD,47,12
+Peter Doe,89463357,"School of Graduate Studies, Research & Extension",2024,2026,Male,Thesis Writing,Self-sponsored,Indian,33,Masters,49,15
+Emily Williams,21223167,Chandaria School of Business,2022,2026,Male,Finance,Self-sponsored,German,139,Undergraduate,24,40
+David Davis,38144436,Chandaria School of Business,2025,2027,Female,Marketing,Self-sponsored,Indian,45,Masters,40,13
+Jane Wilson,74916390,"School of Communication, Cinematic & Creative Arts",2025,2029,Female,Journalism,Self-sponsored,Chinese,156,Undergraduate,25,41
+Emily Miller,63051808,"School of Communication, Cinematic & Creative Arts",2024,2025,Other,Film Production,Sponsored,Kenyan,59,Masters,23,14
+Sarah Wilson,43609094,School of Science & Technology,2022,2024,Male,Computer Science,Self-sponsored,Mexican,48,Masters,46,15
+Jane Doe,32740886,Chandaria School of Business,2025,2030,Male,Human Resource Management,Self-sponsored,Canadian,75,PhD,12,12
+Sarah Miller,32512792,"School of Communication, Cinematic & Creative Arts",2024,2028,Male,Graphic Design,Self-sponsored,British,148,Undergraduate,16,40
+Emily Jones,90000329,Chandaria School of Business,2024,2026,Other,Human Resource Management,Sponsored,Tanzanian,59,Masters,26,16
+Mary Wilson,81393462,School of Pharmacy & Health Sciences,2025,2027,Male,Public Health,Sponsored,Chinese,43,Masters,15,12
+Emily Miller,12751561,Chandaria School of Business,2024,2025,Female,Human Resource Management,Self-sponsored,Kenyan,30,Masters,17,14
+Peter Miller,93138069,School of Humanities & Social Sciences,2024,2026,Male,Sociology,Self-sponsored,Canadian,44,Masters,21,12
+Peter Williams,90590960,Chandaria School of Business,2023,2028,Female,Human Resource Management,Sponsored,Nigerian,50,PhD,22,16
+Emily Williams,31491535,School of Pharmacy & Health Sciences,2022,2026,Other,Pharmacology,Sponsored,British,72,PhD,49,12
+Sarah Williams,12197394,"School of Graduate Studies, Research & Extension",2023,2026,Other,Research Methodology,Self-sponsored,Ugandan,83,PhD,40,16
+Jane Davis,35852836,"School of Communication, Cinematic & Creative Arts",2024,2027,Male,Graphic Design,Sponsored,Nigerian,90,PhD,44,14
+John Brown,58159658,School of Pharmacy & Health Sciences,2024,2026,Female,Pharmacology,Sponsored,Australian,34,Masters,13,16
+Jane Jones,36079622,School of Pharmacy & Health Sciences,2022,2026,Other,Public Health,Self-sponsored,French,68,PhD,23,16
+Emily Smith,29510288,School of Pharmacy & Health Sciences,2022,2026,Other,Nursing,Sponsored,Tanzanian,123,Undergraduate,37,43
+John Doe,47331550,"School of Graduate Studies, Research & Extension",2025,2029,Other,Research Methodology,Sponsored,Rwandan,145,Undergraduate,12,44
+Michael Brown,27950551,School of Humanities & Social Sciences,2024,2028,Other,International Relations,Sponsored,Australian,48,PhD,21,16
+John Miller,37196984,"School of Communication, Cinematic & Creative Arts",2024,2028,Other,Film Production,Self-sponsored,Ugandan,54,PhD,13,15
+Peter Brown,76987275,School of Science & Technology,2025,2026,Female,Computer Science,Sponsored,Ugandan,57,Masters,23,14
+Jane Davis,60214354,"School of Graduate Studies, Research & Extension",2023,2028,Male,Research Methodology,Sponsored,South African,60,PhD,28,13
+Michael Smith,99244031,"School of Communication, Cinematic & Creative Arts",2022,2025,Other,Graphic Design,Sponsored,Tanzanian,123,Undergraduate,20,43
+John Miller,67646135,"School of Communication, Cinematic & Creative Arts",2023,2025,Female,Journalism,Sponsored,South African,41,Masters,27,16
+Emily Miller,21505269,School of Pharmacy & Health Sciences,2023,2027,Other,Pharmacology,Sponsored,Canadian,153,Undergraduate,17,41
+Sarah Davis,31780797,School of Pharmacy & Health Sciences,2025,2029,Female,Nursing,Sponsored,British,133,Undergraduate,15,41
+Jane Jones,87763017,School of Humanities & Social Sciences,2022,2024,Other,Sociology,Sponsored,Australian,30,Masters,20,15
+David Wilson,36420857,"School of Communication, Cinematic & Creative Arts",2025,2027,Female,Journalism,Sponsored,Rwandan,42,Masters,18,14
+Michael Williams,84851746,"School of Graduate Studies, Research & Extension",2024,2028,Other,Advanced Statistics,Sponsored,Rwandan,61,PhD,33,12
+Mary Davis,51851019,School of Pharmacy & Health Sciences,2025,2028,Other,Nursing,Sponsored,Nigerian,149,Undergraduate,44,41
+Emily Jones,67990864,Chandaria School of Business,2024,2026,Male,Marketing,Sponsored,Nigerian,31,Masters,14,13
+Mary Davis,24996031,School of Pharmacy & Health Sciences,2023,2028,Female,Public Health,Self-sponsored,Indian,56,PhD,36,16
+Emily Brown,78991177,School of Science & Technology,2024,2026,Other,Computer Science,Sponsored,Kenyan,59,Masters,35,14
+Mary Brown,99830444,"School of Communication, Cinematic & Creative Arts",2025,2029,Female,Journalism,Sponsored,Rwandan,86,PhD,49,13
+Mary Brown,44330476,School of Humanities & Social Sciences,2025,2029,Male,International Relations,Self-sponsored,Indian,149,Undergraduate,30,43
+Mary Smith,57524493,School of Humanities & Social Sciences,2025,2029,Male,International Relations,Self-sponsored,Tanzanian,132,Undergraduate,30,43
+Emily Brown,31746743,School of Humanities & Social Sciences,2022,2026,Female,Sociology,Sponsored,Tanzanian,74,PhD,10,12
+Sarah Smith,59672669,School of Pharmacy & Health Sciences,2022,2025,Other,Pharmacology,Sponsored,Australian,160,Undergraduate,12,41
+John Jones,72976843,School of Science & Technology,2023,2026,Male,Mathematics,Self-sponsored,French,89,PhD,21,15
+John Jones,60285656,School of Humanities & Social Sciences,2025,2029,Other,Sociology,Self-sponsored,Chinese,160,Undergraduate,32,44
+Sarah Williams,17770842,"School of Communication, Cinematic & Creative Arts",2024,2028,Other,Graphic Design,Sponsored,Australian,135,Undergraduate,26,44
+John Miller,68033429,Chandaria School of Business,2023,2027,Other,Human Resource Management,Sponsored,Indian,155,Undergraduate,31,42
+David Jones,27989830,School of Humanities & Social Sciences,2025,2030,Female,Psychology,Self-sponsored,Mexican,73,PhD,21,15
+Mary Wilson,66188803,School of Humanities & Social Sciences,2024,2027,Male,International Relations,Self-sponsored,Mexican,152,Undergraduate,33,40
+Peter Wilson,42647011,"School of Graduate Studies, Research & Extension",2023,2026,Other,Thesis Writing,Self-sponsored,Tanzanian,74,PhD,30,16
+Michael Miller,56384469,"School of Graduate Studies, Research & Extension",2023,2026,Other,Thesis Writing,Self-sponsored,Mexican,157,Undergraduate,19,44
+Michael Smith,90116823,School of Pharmacy & Health Sciences,2022,2023,Other,Nursing,Self-sponsored,Ugandan,41,Masters,12,16
+Mary Brown,55470862,School of Humanities & Social Sciences,2022,2024,Female,International Relations,Sponsored,Ugandan,51,Masters,42,12
+John Wilson,13941899,School of Humanities & Social Sciences,2025,2026,Male,Sociology,Sponsored,Canadian,33,Masters,38,12
+John Brown,40525831,School of Pharmacy & Health Sciences,2023,2028,Female,Nursing,Self-sponsored,Mexican,51,PhD,48,14
+Mary Doe,21329008,School of Humanities & Social Sciences,2022,2027,Other,Sociology,Sponsored,British,86,PhD,11,14
+Emily Davis,67805271,Chandaria School of Business,2022,2023,Female,Marketing,Sponsored,Chinese,57,Masters,24,16
+John Jones,52802881,"School of Communication, Cinematic & Creative Arts",2023,2028,Other,Film Production,Sponsored,Mexican,68,PhD,28,14
+Sarah Wilson,24772550,School of Pharmacy & Health Sciences,2025,2029,Male,Public Health,Sponsored,Canadian,84,PhD,13,16
+Peter Smith,98255244,Chandaria School of Business,2024,2028,Other,Finance,Sponsored,Indian,154,Undergraduate,44,44
+Emily Davis,83013065,School of Humanities & Social Sciences,2023,2027,Other,International Relations,Sponsored,Ugandan,136,Undergraduate,43,41
+David Brown,72138425,School of Pharmacy & Health Sciences,2025,2029,Male,Nursing,Self-sponsored,American,151,Undergraduate,46,40
+David Wilson,47650433,"School of Communication, Cinematic & Creative Arts",2024,2027,Other,Journalism,Sponsored,American,141,Undergraduate,32,42
+Peter Miller,82387047,School of Pharmacy & Health Sciences,2024,2029,Female,Public Health,Sponsored,Nigerian,86,PhD,33,16
+Emily Brown,70163262,Chandaria School of Business,2025,2029,Other,Finance,Self-sponsored,Australian,155,Undergraduate,50,42
+David Miller,92913292,School of Humanities & Social Sciences,2023,2024,Other,Sociology,Self-sponsored,Mexican,38,Masters,22,16
+Jane Smith,67286385,"School of Communication, Cinematic & Creative Arts",2025,2029,Male,Graphic Design,Sponsored,South African,59,PhD,35,14
+Jane Miller,39410517,School of Science & Technology,2023,2027,Male,Computer Science,Sponsored,South African,77,PhD,48,14
+Sarah Miller,90980273,School of Science & Technology,2024,2029,Other,Mathematics,Self-sponsored,Nigerian,63,PhD,38,12
+Emily Smith,60531391,Chandaria School of Business,2023,2027,Male,Marketing,Sponsored,British,73,PhD,47,14
+Sarah Brown,53039551,"School of Graduate Studies, Research & Extension",2025,2029,Female,Thesis Writing,Sponsored,Kenyan,154,Undergraduate,39,41
+John Williams,55002186,"School of Communication, Cinematic & Creative Arts",2025,2028,Male,Journalism,Self-sponsored,Ugandan,90,PhD,36,13
+Michael Williams,44887668,"School of Graduate Studies, Research & Extension",2025,2027,Other,Thesis Writing,Self-sponsored,Kenyan,44,Masters,50,15
+Sarah Brown,99678578,Chandaria School of Business,2025,2030,Female,Marketing,Self-sponsored,Rwandan,57,PhD,13,14
+Jane Williams,84477508,"School of Graduate Studies, Research & Extension",2023,2024,Other,Research Methodology,Self-sponsored,German,31,Masters,18,16
+Michael Brown,25052650,Chandaria School of Business,2022,2027,Male,Marketing,Sponsored,Tanzanian,77,PhD,17,16
+Emily Williams,40621107,"School of Graduate Studies, Research & Extension",2024,2028,Female,Thesis Writing,Self-sponsored,Chinese,120,Undergraduate,30,43
+Peter Brown,74055006,School of Humanities & Social Sciences,2024,2028,Other,Psychology,Self-sponsored,German,134,Undergraduate,34,44
+David Wilson,94591912,School of Pharmacy & Health Sciences,2024,2026,Other,Pharmacology,Sponsored,Rwandan,51,Masters,33,16
+Peter Williams,83340234,Chandaria School of Business,2023,2024,Female,Human Resource Management,Self-sponsored,German,47,Masters,15,12
+Mary Williams,93555661,"School of Communication, Cinematic & Creative Arts",2024,2029,Other,Film Production,Self-sponsored,South African,88,PhD,17,14
+John Williams,54825231,"School of Graduate Studies, Research & Extension",2023,2024,Male,Research Methodology,Self-sponsored,Nigerian,42,Masters,25,12
+Emily Jones,95413534,School of Pharmacy & Health Sciences,2023,2024,Male,Public Health,Self-sponsored,Kenyan,31,Masters,38,12
+Emily Davis,78486024,School of Humanities & Social Sciences,2024,2028,Male,Psychology,Sponsored,Brazilian,60,PhD,38,13
+Mary Wilson,50413857,School of Science & Technology,2022,2024,Female,Mathematics,Self-sponsored,British,60,Masters,35,12
+Peter Smith,85493948,School of Pharmacy & Health Sciences,2023,2026,Female,Public Health,Self-sponsored,Australian,54,PhD,28,14
+Sarah Doe,39788802,Chandaria School of Business,2022,2024,Female,Human Resource Management,Self-sponsored,American,37,Masters,10,13
+Emily Doe,96404890,School of Humanities & Social Sciences,2024,2028,Other,International Relations,Sponsored,Mexican,142,Undergraduate,50,40
+Sarah Williams,14943327,"School of Communication, Cinematic & Creative Arts",2025,2026,Female,Journalism,Sponsored,Kenyan,36,Masters,32,16
+Mary Williams,23368116,School of Science & Technology,2024,2028,Female,Biotechnology,Self-sponsored,Chinese,45,PhD,47,12
+Michael Williams,44781075,School of Humanities & Social Sciences,2024,2027,Female,International Relations,Self-sponsored,South African,63,PhD,41,16
+Emily Davis,94547548,School of Humanities & Social Sciences,2025,2028,Female,Psychology,Self-sponsored,Rwandan,146,Undergraduate,49,44
+Michael Jones,83218569,School of Pharmacy & Health Sciences,2023,2027,Other,Pharmacology,Self-sponsored,French,120,Undergraduate,41,41
+David Miller,34047107,School of Humanities & Social Sciences,2023,2026,Male,Sociology,Sponsored,Rwandan,155,Undergraduate,35,40
+Emily Smith,86076150,Chandaria School of Business,2023,2028,Female,Human Resource Management,Sponsored,Canadian,58,PhD,43,16
+Sarah Williams,46737598,School of Humanities & Social Sciences,2022,2026,Male,Sociology,Sponsored,Ugandan,158,Undergraduate,27,42
+Michael Miller,42531561,School of Pharmacy & Health Sciences,2024,2026,Other,Public Health,Self-sponsored,German,58,Masters,38,14
+Jane Miller,98604380,"School of Graduate Studies, Research & Extension",2025,2028,Female,Thesis Writing,Self-sponsored,French,70,PhD,49,12
+Jane Miller,49093335,"School of Graduate Studies, Research & Extension",2022,2025,Other,Advanced Statistics,Sponsored,Chinese,79,PhD,17,12
+Sarah Davis,52133458,School of Humanities & Social Sciences,2023,2027,Female,Psychology,Sponsored,South African,122,Undergraduate,18,44
+Emily Miller,74954380,School of Humanities & Social Sciences,2022,2023,Other,Sociology,Sponsored,Mexican,35,Masters,22,16
+Jane Doe,32661497,School of Humanities & Social Sciences,2025,2029,Female,International Relations,Self-sponsored,Australian,85,PhD,20,14
+John Jones,25175494,School of Science & Technology,2023,2027,Other,Biotechnology,Sponsored,German,146,Undergraduate,37,43
+Jane Brown,62893341,School of Humanities & Social Sciences,2022,2023,Female,International Relations,Sponsored,Brazilian,46,Masters,41,14
+John Brown,27523402,Chandaria School of Business,2023,2026,Female,Marketing,Self-sponsored,Canadian,131,Undergraduate,24,41
+Mary Miller,76869738,School of Science & Technology,2023,2025,Male,Computer Science,Sponsored,South African,37,Masters,48,14
+Jane Doe,98111662,School of Science & Technology,2022,2026,Other,Biotechnology,Self-sponsored,Rwandan,72,PhD,33,16
+David Doe,47394860,School of Pharmacy & Health Sciences,2022,2024,Male,Public Health,Self-sponsored,Canadian,47,Masters,14,13
+Mary Smith,70720123,"School of Graduate Studies, Research & Extension",2025,2027,Other,Research Methodology,Self-sponsored,French,48,Masters,44,13
+Sarah Wilson,41710901,School of Pharmacy & Health Sciences,2025,2029,Female,Nursing,Self-sponsored,Canadian,86,PhD,27,12
+Mary Brown,50317377,School of Pharmacy & Health Sciences,2024,2027,Other,Pharmacology,Self-sponsored,British,137,Undergraduate,14,41
+Sarah Wilson,78227217,"School of Communication, Cinematic & Creative Arts",2023,2027,Male,Journalism,Self-sponsored,Canadian,122,Undergraduate,26,40
+John Brown,41278730,"School of Communication, Cinematic & Creative Arts",2025,2027,Female,Graphic Design,Self-sponsored,German,45,Masters,39,16
+Michael Brown,13924817,School of Science & Technology,2022,2026,Female,Computer Science,Self-sponsored,Tanzanian,60,PhD,31,12
+Jane Williams,22594847,Chandaria School of Business,2025,2028,Male,Finance,Sponsored,Canadian,144,Undergraduate,15,41
+Jane Wilson,10538376,Chandaria School of Business,2024,2025,Other,Human Resource Management,Sponsored,Tanzanian,42,Masters,31,15
+David Miller,71218812,School of Humanities & Social Sciences,2024,2027,Female,Psychology,Sponsored,French,73,PhD,15,16
+David Doe,39051094,School of Science & Technology,2024,2028,Female,Mathematics,Self-sponsored,British,64,PhD,43,14
+Sarah Jones,59713730,Chandaria School of Business,2023,2027,Other,Marketing,Self-sponsored,Tanzanian,80,PhD,21,13
+Emily Doe,80730589,School of Humanities & Social Sciences,2022,2024,Other,Psychology,Self-sponsored,Mexican,34,Masters,50,16
+Emily Smith,47365423,School of Humanities & Social Sciences,2023,2026,Female,Sociology,Self-sponsored,Brazilian,152,Undergraduate,42,44
+Emily Wilson,72594799,"School of Graduate Studies, Research & Extension",2023,2027,Other,Advanced Statistics,Sponsored,Nigerian,59,PhD,42,13
+Emily Jones,36026471,"School of Graduate Studies, Research & Extension",2022,2026,Other,Advanced Statistics,Self-sponsored,Nigerian,63,PhD,24,14
+Jane Doe,81389870,School of Humanities & Social Sciences,2024,2027,Male,Psychology,Self-sponsored,Tanzanian,63,PhD,18,15
+Peter Williams,18445337,Chandaria School of Business,2025,2026,Male,Human Resource Management,Sponsored,Chinese,53,Masters,37,16
+David Wilson,13132243,School of Humanities & Social Sciences,2024,2029,Female,International Relations,Sponsored,Brazilian,87,PhD,29,15
+Mary Doe,75104514,School of Humanities & Social Sciences,2025,2028,Other,Psychology,Sponsored,American,135,Undergraduate,32,43
+Jane Jones,19510120,School of Pharmacy & Health Sciences,2022,2023,Female,Pharmacology,Self-sponsored,Australian,31,Masters,29,16
+David Doe,74716259,School of Pharmacy & Health Sciences,2022,2025,Female,Nursing,Self-sponsored,Nigerian,82,PhD,42,13
+Jane Davis,68068746,Chandaria School of Business,2025,2030,Other,Marketing,Sponsored,Brazilian,76,PhD,50,13
+Michael Miller,93836841,School of Science & Technology,2022,2027,Female,Computer Science,Self-sponsored,German,68,PhD,32,16
+Peter Miller,20523375,School of Science & Technology,2025,2027,Male,Biotechnology,Sponsored,Mexican,36,Masters,17,15
+Jane Wilson,86134209,School of Science & Technology,2025,2030,Female,Computer Science,Sponsored,Canadian,58,PhD,49,12
+Jane Wilson,42200034,School of Humanities & Social Sciences,2023,2027,Female,Psychology,Self-sponsored,British,142,Undergraduate,32,41
+Jane Jones,19362954,"School of Communication, Cinematic & Creative Arts",2023,2024,Female,Journalism,Sponsored,German,57,Masters,11,13
+John Miller,76207383,School of Humanities & Social Sciences,2023,2026,Other,International Relations,Sponsored,Tanzanian,121,Undergraduate,49,44
+Jane Wilson,24403939,"School of Graduate Studies, Research & Extension",2022,2026,Male,Research Methodology,Sponsored,Chinese,90,PhD,30,13
+Sarah Wilson,41417702,School of Humanities & Social Sciences,2023,2027,Female,Sociology,Sponsored,Australian,83,PhD,45,16
+Jane Wilson,38842558,School of Pharmacy & Health Sciences,2022,2026,Other,Public Health,Self-sponsored,French,156,Undergraduate,26,40
+Jane Doe,74077938,"School of Graduate Studies, Research & Extension",2025,2030,Other,Research Methodology,Sponsored,American,65,PhD,22,13
+John Doe,65900299,"School of Graduate Studies, Research & Extension",2023,2027,Male,Research Methodology,Self-sponsored,Mexican,156,Undergraduate,24,40
+Michael Davis,94006720,"School of Graduate Studies, Research & Extension",2024,2027,Male,Thesis Writing,Self-sponsored,Tanzanian,74,PhD,20,15
+Mary Doe,16441831,School of Pharmacy & Health Sciences,2023,2027,Female,Public Health,Sponsored,Australian,128,Undergraduate,12,43
+Sarah Doe,49496218,"School of Graduate Studies, Research & Extension",2024,2025,Female,Thesis Writing,Self-sponsored,German,34,Masters,26,15
+David Williams,90425055,"School of Graduate Studies, Research & Extension",2024,2028,Other,Research Methodology,Self-sponsored,Chinese,123,Undergraduate,32,42
+Jane Jones,28549278,Chandaria School of Business,2025,2027,Female,Finance,Sponsored,Nigerian,30,Masters,16,14
+David Doe,82830113,School of Humanities & Social Sciences,2025,2027,Female,Sociology,Self-sponsored,German,52,Masters,16,14
+Mary Williams,43651240,"School of Communication, Cinematic & Creative Arts",2025,2026,Female,Film Production,Sponsored,South African,40,Masters,22,12
+David Miller,69498651,School of Science & Technology,2025,2027,Female,Biotechnology,Self-sponsored,Indian,55,Masters,44,16
+Peter Smith,30482090,School of Humanities & Social Sciences,2023,2025,Other,International Relations,Sponsored,British,36,Masters,39,13
+Michael Doe,55476763,School of Science & Technology,2022,2025,Female,Computer Science,Sponsored,Indian,148,Undergraduate,37,44
+Emily Doe,18202343,School of Science & Technology,2025,2026,Female,Computer Science,Sponsored,Chinese,30,Masters,22,12
+Peter Davis,53278318,Chandaria School of Business,2023,2025,Male,Human Resource Management,Self-sponsored,Ugandan,47,Masters,48,14
+David Davis,84145610,School of Science & Technology,2025,2030,Male,Mathematics,Sponsored,British,80,PhD,39,14
+Jane Wilson,93358934,"School of Communication, Cinematic & Creative Arts",2024,2025,Female,Graphic Design,Self-sponsored,Indian,33,Masters,36,13
+Mary Miller,65706353,"School of Graduate Studies, Research & Extension",2022,2023,Female,Thesis Writing,Sponsored,Tanzanian,31,Masters,20,14
+Michael Williams,50392308,School of Science & Technology,2022,2024,Female,Computer Science,Sponsored,French,60,Masters,34,15
+Sarah Williams,98599194,Chandaria School of Business,2023,2025,Female,Human Resource Management,Self-sponsored,Australian,59,Masters,34,12
+Peter Wilson,47865997,"School of Communication, Cinematic & Creative Arts",2025,2027,Other,Journalism,Sponsored,Tanzanian,51,Masters,28,13
+David Doe,68218975,School of Pharmacy & Health Sciences,2025,2030,Other,Nursing,Self-sponsored,South African,82,PhD,40,14
+David Miller,27659858,"School of Communication, Cinematic & Creative Arts",2024,2027,Female,Graphic Design,Sponsored,Australian,73,PhD,49,13
+Emily Miller,29112970,Chandaria School of Business,2023,2028,Female,Finance,Self-sponsored,Australian,50,PhD,10,14
+Peter Williams,41248580,Chandaria School of Business,2023,2025,Female,Human Resource Management,Sponsored,Kenyan,59,Masters,18,13
+Jane Davis,14378498,Chandaria School of Business,2025,2029,Other,Marketing,Self-sponsored,Brazilian,76,PhD,13,16
+Mary Wilson,96285428,School of Science & Technology,2023,2028,Male,Biotechnology,Self-sponsored,Mexican,60,PhD,19,14
+Michael Jones,27104964,School of Pharmacy & Health Sciences,2022,2025,Female,Pharmacology,Self-sponsored,French,45,PhD,26,14
+Jane Doe,11301931,Chandaria School of Business,2023,2026,Other,Finance,Sponsored,Indian,61,PhD,32,16
+Emily Doe,68744159,School of Humanities & Social Sciences,2023,2025,Other,Sociology,Sponsored,Canadian,49,Masters,11,13
+Jane Williams,22359191,Chandaria School of Business,2025,2028,Other,Finance,Self-sponsored,German,144,Undergraduate,40,42
+John Jones,97267908,"School of Communication, Cinematic & Creative Arts",2023,2027,Male,Journalism,Self-sponsored,Australian,144,Undergraduate,34,40
+David Wilson,72418139,"School of Graduate Studies, Research & Extension",2023,2027,Female,Research Methodology,Sponsored,Canadian,81,PhD,14,15
+Emily Davis,95271905,Chandaria School of Business,2025,2028,Female,Finance,Self-sponsored,South African,77,PhD,14,13
+Michael Davis,76811197,Chandaria School of Business,2025,2027,Other,Finance,Self-sponsored,Ugandan,57,Masters,12,15
+Emily Wilson,42722573,School of Pharmacy & Health Sciences,2022,2025,Other,Public Health,Self-sponsored,Brazilian,126,Undergraduate,14,43
+David Brown,94893121,School of Humanities & Social Sciences,2022,2025,Male,Sociology,Sponsored,Tanzanian,129,Undergraduate,25,42
+Emily Williams,76674586,"School of Communication, Cinematic & Creative Arts",2025,2028,Male,Journalism,Self-sponsored,French,142,Undergraduate,21,40
+John Wilson,73117965,Chandaria School of Business,2025,2028,Other,Human Resource Management,Self-sponsored,Nigerian,61,PhD,23,13
+Jane Wilson,81665180,School of Pharmacy & Health Sciences,2025,2026,Male,Public Health,Sponsored,Ugandan,30,Masters,10,16
+Jane Davis,79263305,School of Science & Technology,2022,2025,Female,Computer Science,Sponsored,German,156,Undergraduate,35,40
+John Brown,16922091,School of Science & Technology,2025,2030,Male,Computer Science,Self-sponsored,Mexican,57,PhD,43,14
+Mary Smith,80799911,"School of Graduate Studies, Research & Extension",2024,2027,Other,Advanced Statistics,Sponsored,South African,86,PhD,34,16
+Michael Brown,64620227,"School of Graduate Studies, Research & Extension",2023,2026,Male,Advanced Statistics,Sponsored,British,45,PhD,33,13
+Jane Wilson,87673632,School of Pharmacy & Health Sciences,2022,2023,Other,Nursing,Sponsored,Chinese,40,Masters,30,15
+Emily Doe,87173009,Chandaria School of Business,2022,2027,Male,Marketing,Self-sponsored,Mexican,56,PhD,29,12
+David Williams,47295923,School of Humanities & Social Sciences,2025,2029,Male,Sociology,Self-sponsored,Australian,129,Undergraduate,20,41
+Sarah Davis,12474743,School of Pharmacy & Health Sciences,2024,2027,Other,Nursing,Sponsored,Tanzanian,77,PhD,36,14
+Peter Wilson,17239056,Chandaria School of Business,2025,2030,Male,Human Resource Management,Sponsored,South African,67,PhD,44,13
+Emily Smith,66707726,"School of Graduate Studies, Research & Extension",2025,2027,Other,Advanced Statistics,Sponsored,Kenyan,41,Masters,46,13
+Sarah Jones,98848422,School of Pharmacy & Health Sciences,2025,2028,Other,Nursing,Self-sponsored,Tanzanian,124,Undergraduate,17,41
+Mary Wilson,86244596,"School of Communication, Cinematic & Creative Arts",2024,2025,Female,Journalism,Sponsored,Rwandan,45,Masters,24,16
+Emily Doe,78229126,School of Humanities & Social Sciences,2024,2028,Female,International Relations,Sponsored,Ugandan,122,Undergraduate,36,41
+Jane Jones,11515586,School of Science & Technology,2022,2024,Male,Mathematics,Sponsored,American,47,Masters,34,12
+Emily Smith,17603618,"School of Graduate Studies, Research & Extension",2025,2028,Other,Advanced Statistics,Self-sponsored,Tanzanian,147,Undergraduate,45,42
+Jane Doe,69425877,"School of Graduate Studies, Research & Extension",2022,2023,Female,Research Methodology,Self-sponsored,Australian,47,Masters,43,14
+David Brown,78199623,"School of Communication, Cinematic & Creative Arts",2022,2025,Female,Film Production,Sponsored,French,48,PhD,29,15
+Peter Wilson,72874506,School of Humanities & Social Sciences,2025,2029,Male,Sociology,Self-sponsored,Chinese,77,PhD,11,13
+Michael Miller,42050482,School of Humanities & Social Sciences,2024,2028,Female,Psychology,Sponsored,Rwandan,154,Undergraduate,39,41
+Jane Smith,47704616,"School of Graduate Studies, Research & Extension",2024,2028,Other,Advanced Statistics,Self-sponsored,Rwandan,72,PhD,47,12
+John Jones,14572970,School of Pharmacy & Health Sciences,2023,2025,Male,Public Health,Self-sponsored,Tanzanian,44,Masters,26,12
+Peter Davis,84167680,School of Science & Technology,2022,2026,Male,Biotechnology,Self-sponsored,Chinese,123,Undergraduate,31,43
+John Doe,12063405,School of Science & Technology,2023,2027,Other,Computer Science,Self-sponsored,German,151,Undergraduate,44,43
+Michael Williams,79256761,"School of Graduate Studies, Research & Extension",2025,2029,Other,Research Methodology,Sponsored,Australian,85,PhD,37,12
+Jane Brown,61227568,School of Humanities & Social Sciences,2023,2024,Female,Sociology,Self-sponsored,Mexican,32,Masters,41,14
+Sarah Jones,36343864,School of Science & Technology,2022,2025,Female,Mathematics,Self-sponsored,American,159,Undergraduate,24,42
+Jane Wilson,55299966,"School of Communication, Cinematic & Creative Arts",2024,2026,Male,Film Production,Self-sponsored,Kenyan,42,Masters,26,16
+Mary Smith,57054122,"School of Communication, Cinematic & Creative Arts",2023,2026,Other,Film Production,Self-sponsored,Nigerian,124,Undergraduate,28,42
+Jane Miller,83711044,Chandaria School of Business,2025,2026,Other,Finance,Self-sponsored,Kenyan,39,Masters,41,15
+Emily Miller,27885793,School of Science & Technology,2024,2026,Other,Mathematics,Sponsored,Chinese,52,Masters,41,14
+John Miller,33085138,Chandaria School of Business,2023,2027,Male,Finance,Self-sponsored,Ugandan,50,PhD,31,14
+Sarah Brown,27504986,"School of Communication, Cinematic & Creative Arts",2023,2028,Other,Graphic Design,Sponsored,Kenyan,60,PhD,10,14
+Michael Smith,22329925,School of Pharmacy & Health Sciences,2022,2026,Other,Nursing,Sponsored,Indian,125,Undergraduate,12,44
+Michael Williams,27526195,"School of Communication, Cinematic & Creative Arts",2025,2029,Female,Film Production,Sponsored,Tanzanian,159,Undergraduate,31,42
+Peter Smith,68691578,Chandaria School of Business,2025,2027,Male,Human Resource Management,Self-sponsored,Rwandan,44,Masters,40,13
+Emily Brown,71336262,"School of Graduate Studies, Research & Extension",2025,2026,Female,Thesis Writing,Sponsored,Tanzanian,53,Masters,15,14
+Emily Jones,46439176,"School of Graduate Studies, Research & Extension",2023,2026,Other,Thesis Writing,Sponsored,Nigerian,140,Undergraduate,44,40
+Michael Jones,16832154,"School of Communication, Cinematic & Creative Arts",2025,2028,Other,Film Production,Sponsored,Indian,47,PhD,37,15
+John Brown,36514751,School of Pharmacy & Health Sciences,2024,2028,Male,Pharmacology,Sponsored,Mexican,120,Undergraduate,34,41
+Mary Wilson,88042492,School of Pharmacy & Health Sciences,2025,2028,Other,Public Health,Sponsored,Ugandan,151,Undergraduate,48,43
+Jane Brown,20209609,School of Humanities & Social Sciences,2023,2026,Female,Sociology,Sponsored,American,62,PhD,22,14
+Peter Brown,82904880,School of Pharmacy & Health Sciences,2024,2026,Other,Nursing,Self-sponsored,Canadian,56,Masters,38,13
+Michael Jones,23078493,School of Science & Technology,2022,2023,Female,Computer Science,Self-sponsored,Rwandan,37,Masters,10,16
+Mary Smith,53550777,School of Science & Technology,2022,2025,Male,Mathematics,Sponsored,Kenyan,142,Undergraduate,48,43
+Mary Smith,60193848,"School of Communication, Cinematic & Creative Arts",2023,2024,Female,Graphic Design,Self-sponsored,Brazilian,46,Masters,50,12
+Peter Miller,23602776,Chandaria School of Business,2023,2026,Other,Marketing,Self-sponsored,Kenyan,138,Undergraduate,29,44
+John Davis,25090882,"School of Graduate Studies, Research & Extension",2025,2028,Female,Research Methodology,Sponsored,Brazilian,134,Undergraduate,45,40
+David Davis,80805193,School of Pharmacy & Health Sciences,2022,2025,Other,Nursing,Self-sponsored,American,147,Undergraduate,12,40
+David Jones,31216953,"School of Communication, Cinematic & Creative Arts",2025,2030,Female,Journalism,Self-sponsored,Canadian,56,PhD,42,14
+John Wilson,70952266,"School of Graduate Studies, Research & Extension",2024,2029,Other,Thesis Writing,Sponsored,American,54,PhD,41,14
+Peter Jones,90663824,School of Humanities & Social Sciences,2025,2028,Female,Psychology,Self-sponsored,Tanzanian,129,Undergraduate,11,41
+Mary Doe,79900398,School of Science & Technology,2025,2028,Other,Computer Science,Self-sponsored,Kenyan,140,Undergraduate,18,40
+Emily Doe,89169749,School of Humanities & Social Sciences,2022,2025,Female,International Relations,Self-sponsored,Canadian,153,Undergraduate,34,44
+Michael Brown,65220151,School of Humanities & Social Sciences,2024,2025,Male,Psychology,Self-sponsored,Brazilian,56,Masters,50,16
+Sarah Miller,19831880,School of Science & Technology,2022,2025,Male,Biotechnology,Self-sponsored,Indian,142,Undergraduate,40,41
+Jane Miller,80156793,"School of Graduate Studies, Research & Extension",2022,2024,Other,Research Methodology,Self-sponsored,Chinese,45,Masters,13,13
+David Jones,65008832,School of Science & Technology,2025,2030,Female,Mathematics,Sponsored,Rwandan,45,PhD,33,14
+Peter Miller,82373350,School of Humanities & Social Sciences,2025,2030,Other,International Relations,Self-sponsored,Kenyan,54,PhD,31,13
+John Smith,19213135,School of Humanities & Social Sciences,2024,2025,Other,Sociology,Sponsored,British,38,Masters,46,13
+David Davis,71715485,"School of Communication, Cinematic & Creative Arts",2025,2029,Female,Film Production,Self-sponsored,Rwandan,79,PhD,37,16
+John Miller,69447117,Chandaria School of Business,2025,2028,Male,Marketing,Sponsored,Australian,142,Undergraduate,22,40
+David Smith,70548534,"School of Graduate Studies, Research & Extension",2023,2026,Male,Research Methodology,Self-sponsored,Brazilian,83,PhD,17,12
+John Wilson,31956847,"School of Graduate Studies, Research & Extension",2023,2028,Other,Thesis Writing,Self-sponsored,German,71,PhD,12,13
+Michael Doe,39165118,"School of Communication, Cinematic & Creative Arts",2024,2026,Other,Film Production,Sponsored,Brazilian,42,Masters,14,16
+John Jones,33499277,School of Science & Technology,2025,2029,Female,Mathematics,Self-sponsored,Tanzanian,52,PhD,38,12
+Sarah Jones,19461396,School of Humanities & Social Sciences,2022,2026,Female,Psychology,Self-sponsored,South African,53,PhD,48,16
+David Wilson,13616499,Chandaria School of Business,2024,2028,Male,Finance,Self-sponsored,Mexican,125,Undergraduate,16,40
+David Jones,34377081,Chandaria School of Business,2025,2028,Female,Marketing,Sponsored,Indian,75,PhD,33,14
+Jane Doe,98634559,"School of Communication, Cinematic & Creative Arts",2024,2027,Other,Journalism,Self-sponsored,Australian,58,PhD,35,16
+Jane Doe,73199543,School of Science & Technology,2022,2025,Male,Computer Science,Sponsored,German,144,Undergraduate,19,41
+John Williams,47445641,School of Pharmacy & Health Sciences,2023,2027,Female,Pharmacology,Sponsored,Kenyan,55,PhD,28,15
+Peter Williams,87057833,"School of Communication, Cinematic & Creative Arts",2023,2027,Male,Film Production,Self-sponsored,Nigerian,49,PhD,20,13
+Emily Wilson,71812593,"School of Graduate Studies, Research & Extension",2023,2026,Other,Thesis Writing,Self-sponsored,Mexican,127,Undergraduate,24,44
+John Davis,98488159,"School of Graduate Studies, Research & Extension",2025,2029,Other,Thesis Writing,Sponsored,German,80,PhD,11,13
+John Wilson,98361007,School of Pharmacy & Health Sciences,2023,2025,Female,Nursing,Self-sponsored,Chinese,51,Masters,42,13
+Jane Smith,35998225,"School of Communication, Cinematic & Creative Arts",2022,2026,Male,Journalism,Self-sponsored,Australian,152,Undergraduate,38,42
+Sarah Miller,35046936,"School of Graduate Studies, Research & Extension",2025,2030,Male,Research Methodology,Sponsored,Chinese,83,PhD,20,12
+Emily Doe,17728975,Chandaria School of Business,2022,2023,Male,Marketing,Self-sponsored,Ugandan,44,Masters,11,16
+John Wilson,19260338,Chandaria School of Business,2025,2026,Other,Finance,Self-sponsored,Canadian,32,Masters,30,12
+Mary Doe,77202150,"School of Communication, Cinematic & Creative Arts",2025,2027,Female,Graphic Design,Sponsored,Nigerian,53,Masters,13,13
+John Miller,87817830,School of Science & Technology,2022,2025,Female,Mathematics,Self-sponsored,British,45,PhD,28,14
+Michael Smith,50635419,Chandaria School of Business,2024,2028,Other,Finance,Self-sponsored,Rwandan,120,Undergraduate,16,41
+Peter Miller,71951204,Chandaria School of Business,2025,2026,Other,Human Resource Management,Self-sponsored,Chinese,37,Masters,36,13
+Jane Brown,26381464,"School of Communication, Cinematic & Creative Arts",2023,2028,Male,Film Production,Sponsored,American,53,PhD,47,12
+John Doe,14718560,"School of Communication, Cinematic & Creative Arts",2023,2028,Female,Journalism,Self-sponsored,Chinese,57,PhD,47,14
+Mary Jones,13008341,"School of Communication, Cinematic & Creative Arts",2022,2025,Female,Graphic Design,Sponsored,South African,149,Undergraduate,38,43
+Michael Miller,38756794,Chandaria School of Business,2022,2025,Female,Human Resource Management,Sponsored,Kenyan,82,PhD,27,13
+John Davis,26407113,School of Science & Technology,2023,2026,Male,Mathematics,Sponsored,Indian,78,PhD,14,13
+Mary Doe,60992630,School of Humanities & Social Sciences,2022,2023,Male,International Relations,Self-sponsored,Australian,30,Masters,37,15
+Michael Miller,31340647,Chandaria School of Business,2023,2027,Male,Human Resource Management,Self-sponsored,Kenyan,131,Undergraduate,20,40
+Jane Doe,58207994,School of Humanities & Social Sciences,2022,2025,Other,Psychology,Self-sponsored,South African,126,Undergraduate,23,40
+David Jones,49480422,School of Science & Technology,2024,2026,Male,Computer Science,Self-sponsored,Mexican,41,Masters,10,12
+Michael Doe,30751473,School of Science & Technology,2022,2026,Male,Computer Science,Self-sponsored,Indian,61,PhD,40,16
+David Davis,33232833,School of Science & Technology,2024,2026,Other,Mathematics,Sponsored,German,56,Masters,35,12
+Peter Davis,70986209,School of Science & Technology,2023,2026,Female,Computer Science,Self-sponsored,Brazilian,156,Undergraduate,45,44
+Sarah Smith,42361068,School of Science & Technology,2025,2030,Male,Mathematics,Self-sponsored,British,65,PhD,21,12
+David Miller,12819882,School of Science & Technology,2022,2027,Male,Biotechnology,Sponsored,Chinese,72,PhD,15,12
+Mary Doe,79973641,Chandaria School of Business,2024,2027,Female,Finance,Sponsored,Chinese,132,Undergraduate,40,42
+John Brown,34331267,School of Science & Technology,2022,2025,Other,Computer Science,Sponsored,Tanzanian,128,Undergraduate,35,40
+John Smith,62996231,School of Humanities & Social Sciences,2024,2029,Other,Sociology,Sponsored,South African,58,PhD,29,14
+Michael Doe,84799212,Chandaria School of Business,2025,2029,Male,Marketing,Sponsored,Indian,127,Undergraduate,22,44
+Michael Brown,78462599,School of Pharmacy & Health Sciences,2022,2026,Female,Public Health,Sponsored,Indian,122,Undergraduate,38,44
+Sarah Doe,24161016,School of Humanities & Social Sciences,2022,2024,Male,International Relations,Sponsored,Chinese,34,Masters,21,13
+Sarah Williams,98354664,"School of Graduate Studies, Research & Extension",2024,2028,Female,Research Methodology,Self-sponsored,South African,149,Undergraduate,31,42
+Sarah Brown,11048622,"School of Graduate Studies, Research & Extension",2022,2026,Female,Advanced Statistics,Self-sponsored,South African,139,Undergraduate,48,40
+David Davis,50594838,Chandaria School of Business,2024,2028,Other,Finance,Self-sponsored,Mexican,90,PhD,32,15
+Emily Brown,60407013,Chandaria School of Business,2025,2028,Other,Human Resource Management,Self-sponsored,Rwandan,63,PhD,26,12
+Emily Miller,23712276,School of Science & Technology,2024,2025,Female,Mathematics,Self-sponsored,Nigerian,53,Masters,30,13
+Emily Smith,74491983,School of Science & Technology,2023,2027,Other,Biotechnology,Sponsored,Rwandan,45,PhD,44,14
+Michael Brown,84711197,School of Science & Technology,2025,2028,Female,Biotechnology,Self-sponsored,Indian,88,PhD,15,15
+Peter Williams,27215118,Chandaria School of Business,2025,2029,Other,Marketing,Sponsored,Australian,120,Undergraduate,28,40
+John Brown,38276513,Chandaria School of Business,2022,2025,Other,Human Resource Management,Self-sponsored,Chinese,137,Undergraduate,17,41
+Michael Brown,39559427,School of Pharmacy & Health Sciences,2023,2026,Other,Nursing,Self-sponsored,Tanzanian,154,Undergraduate,41,42
+Mary Williams,11667560,School of Pharmacy & Health Sciences,2023,2028,Other,Nursing,Self-sponsored,Brazilian,73,PhD,11,14
+Sarah Brown,44807622,"School of Communication, Cinematic & Creative Arts",2023,2025,Female,Film Production,Sponsored,Brazilian,41,Masters,41,15
+Sarah Miller,43985922,Chandaria School of Business,2025,2030,Male,Finance,Sponsored,Australian,86,PhD,32,12
+Mary Williams,32731438,"School of Communication, Cinematic & Creative Arts",2024,2025,Female,Graphic Design,Self-sponsored,Chinese,34,Masters,18,12
+David Doe,44317407,School of Humanities & Social Sciences,2025,2026,Female,Psychology,Self-sponsored,Canadian,55,Masters,32,13
+Peter Brown,29919174,School of Science & Technology,2022,2025,Male,Biotechnology,Sponsored,German,126,Undergraduate,46,43
+David Miller,32528675,"School of Communication, Cinematic & Creative Arts",2025,2026,Other,Film Production,Self-sponsored,American,50,Masters,30,12
+Michael Wilson,65333063,School of Humanities & Social Sciences,2024,2027,Female,Psychology,Self-sponsored,American,148,Undergraduate,23,41
+David Wilson,80878929,School of Science & Technology,2022,2024,Male,Computer Science,Self-sponsored,Rwandan,41,Masters,27,15
+Jane Miller,58012150,School of Humanities & Social Sciences,2023,2024,Female,International Relations,Self-sponsored,American,43,Masters,13,13
+John Williams,27077872,School of Science & Technology,2024,2027,Male,Biotechnology,Sponsored,Australian,73,PhD,33,13
+Emily Miller,95860473,School of Science & Technology,2022,2026,Male,Biotechnology,Sponsored,French,135,Undergraduate,13,44
+Jane Brown,33732559,School of Pharmacy & Health Sciences,2023,2027,Male,Public Health,Self-sponsored,French,62,PhD,16,14
+David Jones,36162005,"School of Graduate Studies, Research & Extension",2022,2024,Female,Research Methodology,Self-sponsored,South African,51,Masters,35,14
+John Davis,96047027,School of Science & Technology,2024,2026,Male,Biotechnology,Sponsored,British,33,Masters,41,15
